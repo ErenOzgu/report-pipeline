@@ -1,0 +1,9 @@
+{
+  "source": "rules",
+  "model": "",
+  "text": "Tickets opened: 224 in 2026-09, up 9.8% from 204 in 2026-08. Customers who wrote in: 111 in 2026-09, up 6.7% from 104 in 2026-08. Median time to resolve: 12.1 h in 2026-09, down 14.2% from 14.1 h in 2026-08. Time to resolve, 90th percentile: 56.1 h in 2026-09, down 16.9% from 67.5 h in 2026-08. Tickets that took over 24 h: 31.3% in 2026-09, down 3.1 pp from 34.3% in 2026-08. Average satisfaction (1 to 5): 3.89 in 2026-09, up 10.3% from 3.53 in 2026-08. The largest category is Billing with 81 (36.2% of the total). The largest channel is Email with 118 (52.7% of the total).",
+  "figures_checked": 50,
+  "rejected_model_text": "",
+  "rejection_reasons": [],
+  "error": ""
+}

@@ -1,0 +1,81 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install ruff
+      - run: ruff check .
+      - run: ruff format --check .
+      - name: actionlint
+        run: |
+          set -euo pipefail
+          v=1.7.7
+          base="https://github.com/rhysd/actionlint/releases/download/v${v}"
+          curl -fsSL -o "actionlint.tgz" "${base}/actionlint_${v}_linux_amd64.tar.gz"
+          curl -fsSL -o "checksums.txt" "${base}/actionlint_${v}_checksums.txt"
+          grep " actionlint_${v}_linux_amd64.tar.gz\$" checksums.txt | sed 's/ actionlint_.*/ actionlint.tgz/' | sha256sum -c -
+          tar -xzf actionlint.tgz actionlint
+          ./actionlint
+
+  test:
+    name: Tests (Python ${{ matrix.python }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ["3.11", "3.12", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - run: pip install -e '.[dev]'
+      - name: pandas must be there (the oracle tests are skipped without it)
+        run: python -c "import pandas; print('pandas', pandas.__version__)"
+      - run: python -m pytest -q
+
+  example:
+    name: The example is reproducible
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e .
+      - name: The CSV is what the generator writes (fixed seed)
+        run: python examples/support-tickets/make_data.py | diff - examples/support-tickets/tickets.csv
+      - name: The committed report is what the tool writes today
+        run: |
+          report-pipeline build examples/support-tickets/spec.toml --out "$RUNNER_TEMP/out"
+          diff -r "$RUNNER_TEMP/out" examples/support-tickets/report
+      - name: A text with a made-up figure must fail the check
+        run: |
+          echo "Tickets opened were 300 in 2026-09." > "$RUNNER_TEMP/bad.txt"
+          if report-pipeline check "$RUNNER_TEMP/bad.txt" "$RUNNER_TEMP/out/facts.json"; then
+            echo "::error::the checker accepted a figure that is not in the data"; exit 1
+          fi
+      - name: Report on the run page
+        run: cat "$RUNNER_TEMP/out/report.md" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: example-report
+          path: ${{ runner.temp }}/out

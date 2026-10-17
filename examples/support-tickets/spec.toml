@@ -1,0 +1,77 @@
+title = "Support tickets"
+period_column = "opened"
+period = "month"
+trend_periods = 6
+
+[source]
+path = "tickets.csv"
+key = "ticket_id"
+
+[columns]
+ticket_id = "text"
+opened = "date"
+category = "category"
+channel = "category"
+customer = "text"
+agent = "text"
+resolution_hours = "number"
+satisfaction = "number"
+
+[[metric]]
+id = "opened"
+label = "Tickets opened"
+agg = "count"
+
+[[metric]]
+id = "customers"
+label = "Customers who wrote in"
+agg = "distinct"
+column = "customer"
+
+[[metric]]
+id = "median_resolution"
+label = "Median time to resolve"
+agg = "median"
+column = "resolution_hours"
+unit = "h"
+decimals = 1
+better = "down"
+
+[[metric]]
+id = "p90_resolution"
+label = "Time to resolve, 90th percentile"
+agg = "p90"
+column = "resolution_hours"
+unit = "h"
+decimals = 1
+better = "down"
+
+[[metric]]
+id = "slow"
+label = "Tickets that took over 24 h"
+agg = "rate"
+unit = "%"
+decimals = 1
+better = "down"
+where = [{ column = "resolution_hours", op = ">", value = 24 }]
+
+[[metric]]
+id = "satisfaction"
+label = "Average satisfaction (1 to 5)"
+agg = "mean"
+column = "satisfaction"
+decimals = 2
+better = "up"
+
+[[breakdown]]
+id = "by_category"
+label = "By category"
+by = "category"
+metrics = ["opened", "median_resolution", "slow"]
+top = 6
+
+[[breakdown]]
+id = "by_channel"
+label = "By channel"
+by = "channel"
+metrics = ["opened", "satisfaction"]

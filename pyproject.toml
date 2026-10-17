@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "report-pipeline"
+version = "0.1.0"
+description = "CSV in, report out: deterministic numbers first, an optional model-written summary that is rejected if it contains a figure that is not in the data."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Eren Özgü" }]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6", "pandas>=2", "pyyaml>=6"]
+
+[project.scripts]
+report-pipeline = "report_pipeline.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["report_pipeline*"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff.lint.per-file-ignores]
+"report_pipeline/render.py" = ["E501"]  # HTML templates in strings

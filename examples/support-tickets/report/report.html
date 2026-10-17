@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Support tickets - 2026-09</title><style>
+:root{--bg:#f7f8fa;--card:#fff;--ink:#1b2430;--muted:#5d6b7c;--line:#e2e6ec;--accent:#2b6cb0;--good:#1a7f4b;--bad:#b42318;--bar:#c7d7ec}
+@media (prefers-color-scheme:dark){:root{--bg:#10151c;--card:#171e27;--ink:#e6ebf2;--muted:#93a1b3;--line:#273140;--accent:#6aa7ff;--good:#4cc38a;--bad:#ff7b72;--bar:#2a3f5f}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+main{max-width:960px;margin:0 auto;padding:32px 16px 64px}h1{font-size:1.8rem;margin:0 0 4px}h2{font-size:1.15rem;margin:36px 0 12px}
+.sub{color:var(--muted);font-size:.9rem}.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+.summary p{margin:0 0 8px;font-size:1.05rem}.prov{color:var(--muted);font-size:.85rem;margin:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px}.k .label{color:var(--muted);font-size:.85rem}
+.k .num{font-size:1.9rem;font-weight:650;letter-spacing:-.02em}.chip{font-size:.85rem;font-weight:600}.good{color:var(--good)}.bad{color:var(--bad)}.flat{color:var(--muted)}
+svg.spark{display:block;margin-top:6px;width:100%;height:34px}table{border-collapse:collapse;width:100%;font-size:.92rem}
+th,td{padding:7px 10px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}th:first-child,td:first-child{text-align:left}
+th{color:var(--muted);font-weight:600}.scroll{overflow-x:auto}.barcell{position:relative}.bar{position:absolute;left:0;top:0;bottom:0;background:var(--bar);z-index:0;border-radius:0 4px 4px 0}
+.barcell span{position:relative;z-index:1}ul{padding-left:20px}li{margin:4px 0}code{font-size:.88em}
+</style></head><body><main>
+<h1>Support tickets</h1>
+<p class="sub"><strong>2026-09</strong> compared with 2026-08. Source <code>tickets.csv</code>, 1,142 rows used (224 in the period), sha256 <code>bd9828c4f67b</code>.</p>
+<div class="card summary"><p>Tickets opened: 224 in 2026-09, up 9.8% from 204 in 2026-08. Customers who wrote in: 111 in 2026-09, up 6.7% from 104 in 2026-08. Median time to resolve: 12.1 h in 2026-09, down 14.2% from 14.1 h in 2026-08. Time to resolve, 90th percentile: 56.1 h in 2026-09, down 16.9% from 67.5 h in 2026-08. Tickets that took over 24 h: 31.3% in 2026-09, down 3.1 pp from 34.3% in 2026-08. Average satisfaction (1 to 5): 3.89 in 2026-09, up 10.3% from 3.53 in 2026-08. The largest category is Billing with 81 (36.2% of the total). The largest channel is Email with 118 (52.7% of the total).</p><p class="prov">Written by rules from the figures below.</p></div>
+<h2>Key numbers</h2><div class="grid">
+<div class="card k"><div class="label">Tickets opened</div><div class="num">224</div><span class="chip flat">+9.8% vs 204</span><svg class="spark" viewBox="0 0 120 34" preserveAspectRatio="none" role="img" aria-label="trend"><polyline fill="none" stroke="var(--accent)" stroke-width="1.6" points="0.0,30.0 24.0,24.4 48.0,19.8 72.0,26.3 96.0,13.3 120.0,4.0"/><circle cx="120.0" cy="4.0" r="2.4" fill="var(--accent)"/></svg></div>
+<div class="card k"><div class="label">Customers who wrote in</div><div class="num">111</div><span class="chip flat">+6.7% vs 104</span><svg class="spark" viewBox="0 0 120 34" preserveAspectRatio="none" role="img" aria-label="trend"><polyline fill="none" stroke="var(--accent)" stroke-width="1.6" points="0.0,30.0 24.0,15.1 48.0,22.6 72.0,26.3 96.0,12.7 120.0,4.0"/><circle cx="120.0" cy="4.0" r="2.4" fill="var(--accent)"/></svg></div>
+<div class="card k"><div class="label">Median time to resolve</div><div class="num">12.1 h</div><span class="chip good">-14.2% vs 14.1 h</span><svg class="spark" viewBox="0 0 120 34" preserveAspectRatio="none" role="img" aria-label="trend"><polyline fill="none" stroke="var(--accent)" stroke-width="1.6" points="0.0,30.0 24.0,9.9 48.0,21.7 72.0,24.7 96.0,4.0 120.0,27.6"/><circle cx="120.0" cy="27.6" r="2.4" fill="var(--accent)"/></svg></div>
+<div class="card k"><div class="label">Time to resolve, 90th percentile</div><div class="num">56.1 h</div><span class="chip good">-16.9% vs 67.5 h</span><svg class="spark" viewBox="0 0 120 34" preserveAspectRatio="none" role="img" aria-label="trend"><polyline fill="none" stroke="var(--accent)" stroke-width="1.6" points="0.0,4.0 24.0,11.0 48.0,25.2 72.0,27.9 96.0,11.5 120.0,30.0"/><circle cx="120.0" cy="30.0" r="2.4" fill="var(--accent)"/></svg></div>
+<div class="card k"><div class="label">Tickets that took over 24 h</div><div class="num">31.3%</div><span class="chip good">-3.1 pp vs 34.3%</span><svg class="spark" viewBox="0 0 120 34" preserveAspectRatio="none" role="img" aria-label="trend"><polyline fill="none" stroke="var(--accent)" stroke-width="1.6" points="0.0,28.3 24.0,4.0 48.0,30.0 72.0,28.7 96.0,10.6 120.0,19.1"/><circle cx="120.0" cy="19.1" r="2.4" fill="var(--accent)"/></svg></div>
+<div class="card k"><div class="label">Average satisfaction (1 to 5)</div><div class="num">3.89</div><span class="chip good">+10.3% vs 3.53</span><svg class="spark" viewBox="0 0 120 34" preserveAspectRatio="none" role="img" aria-label="trend"><polyline fill="none" stroke="var(--accent)" stroke-width="1.6" points="0.0,30.0 24.0,24.4 48.0,27.6 72.0,16.4 96.0,28.9 120.0,4.0"/><circle cx="120.0" cy="4.0" r="2.4" fill="var(--accent)"/></svg></div>
+</div>
+<h2>Trend</h2><div class="card scroll"><table><thead><tr><th>Metric</th>
+<th>2026-04</th><th>2026-05</th><th>2026-06</th><th>2026-07</th><th>2026-08</th><th>2026-09</th></tr></thead><tbody>
+<tr><td>Tickets opened</td><td>168</td><td>180</td><td>190</td><td>176</td><td>204</td><td>224</td></tr>
+<tr><td>Customers who wrote in</td><td>90</td><td>102</td><td>96</td><td>93</td><td>104</td><td>111</td></tr>
+<tr><td>Median time to resolve</td><td>11.9 h</td><td>13.6 h</td><td>12.6 h</td><td>12.4 h</td><td>14.1 h</td><td>12.1 h</td></tr>
+<tr><td>Time to resolve, 90th percentile</td><td>72.1 h</td><td>67.8 h</td><td>59.1 h</td><td>57.4 h</td><td>67.5 h</td><td>56.1 h</td></tr>
+<tr><td>Tickets that took over 24 h</td><td>28.0%</td><td>36.7%</td><td>27.4%</td><td>27.8%</td><td>34.3%</td><td>31.3%</td></tr>
+<tr><td>Average satisfaction (1 to 5)</td><td>3.51</td><td>3.60</td><td>3.55</td><td>3.71</td><td>3.53</td><td>3.89</td></tr>
+</tbody></table></div>
+<h2>By category</h2><div class="card scroll"><table><thead><tr><th>Category</th>
+<th>Tickets opened</th><th>Median time to resolve</th><th>Tickets that took over 24 h</th><th>Share</th></tr></thead><tbody>
+<tr><td>Billing</td><td>81</td><td>9.7 h</td><td>17.3%</td><td class="barcell"><div class="bar" style="width:36.2%"></div><span>36.2%</span></td></tr>
+<tr><td>Bug report</td><td>44</td><td>31.7 h</td><td>65.9%</td><td class="barcell"><div class="bar" style="width:19.6%"></div><span>19.6%</span></td></tr>
+<tr><td>Login</td><td>35</td><td>3.8 h</td><td>0.0%</td><td class="barcell"><div class="bar" style="width:15.6%"></div><span>15.6%</span></td></tr>
+<tr><td>Performance</td><td>28</td><td>19.9 h</td><td>42.9%</td><td class="barcell"><div class="bar" style="width:12.5%"></div><span>12.5%</span></td></tr>
+<tr><td>Feature request</td><td>20</td><td>36.5 h</td><td>75.0%</td><td class="barcell"><div class="bar" style="width:8.9%"></div><span>8.9%</span></td></tr>
+<tr><td>Other</td><td>16</td><td>6.9 h</td><td>0.0%</td><td class="barcell"><div class="bar" style="width:7.1%"></div><span>7.1%</span></td></tr>
+</tbody></table></div>
+<h2>By channel</h2><div class="card scroll"><table><thead><tr><th>Channel</th>
+<th>Tickets opened</th><th>Average satisfaction (1 to 5)</th><th>Share</th></tr></thead><tbody>
+<tr><td>Email</td><td>118</td><td>3.88</td><td class="barcell"><div class="bar" style="width:52.7%"></div><span>52.7%</span></td></tr>
+<tr><td>Chat</td><td>73</td><td>3.85</td><td class="barcell"><div class="bar" style="width:32.6%"></div><span>32.6%</span></td></tr>
+<tr><td>Phone</td><td>33</td><td>4.05</td><td class="barcell"><div class="bar" style="width:14.7%"></div><span>14.7%</span></td></tr>
+</tbody></table></div>
+<h2>Data notes</h2><div class="card"><ul>
+<li>2 rows have no usable &#x27;opened&#x27; and were left out (first at lines 1147, 1148).</li><li>3 rows repeat an earlier &#x27;ticket_id&#x27; and were left out (first at lines 533, 725, 933).</li><li>6 values in &#x27;resolution_hours&#x27; could not be read as a number and were treated as empty (first at lines 72, 74, 79).</li><li>443 rows have an empty &#x27;satisfaction&#x27;.</li>
+</ul></div><h2>How the numbers were computed</h2><div class="card"><ul>
+<li><strong>Tickets opened</strong>: number of rows.</li>
+<li><strong>Customers who wrote in</strong>: number of different values of <code>customer</code>.</li>
+<li><strong>Median time to resolve</strong>: median of <code>resolution_hours</code>.</li>
+<li><strong>Time to resolve, 90th percentile</strong>: 90th percentile of <code>resolution_hours</code>.</li>
+<li><strong>Tickets that took over 24 h</strong>: share of rows where resolution_hours &gt; 24, in percent of all rows of the period.</li>
+<li><strong>Average satisfaction (1 to 5)</strong>: mean of <code>satisfaction</code>.</li>
+</ul><p class="sub">Periods are calendar months of <code>opened</code>. The change compares with the period just before. Percentiles interpolate linearly between ranks. Figures are rounded half up.</p></div>
+</main></body></html>

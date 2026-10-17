@@ -1,0 +1,413 @@
+{
+  "schema": 1,
+  "title": "Support tickets",
+  "period": "2026-09",
+  "previous_period": "2026-08",
+  "period_kind": "month",
+  "source": {
+    "file": "tickets.csv",
+    "rows_read": 1147,
+    "rows_used": 1142,
+    "rows_in_period": 224,
+    "sha256": "bd9828c4f67b972f0211401844bd9bfa498ad272f54697da265eaff6c3b51cb1"
+  },
+  "metrics": [
+    {
+      "id": "opened",
+      "label": "Tickets opened",
+      "unit": "",
+      "better": "none",
+      "current": 224.0,
+      "current_text": "224",
+      "previous": 204.0,
+      "previous_text": "204",
+      "delta_abs": 20.0,
+      "delta_abs_text": "+20",
+      "delta_pct": 9.803921568627452,
+      "delta_text": "+9.8%",
+      "delta_sign": 1,
+      "statement": "Tickets opened: 224 in 2026-09; 204 in 2026-08 (+9.8%)",
+      "series": [
+        {
+          "period": "2026-04",
+          "value": 168.0,
+          "text": "168"
+        },
+        {
+          "period": "2026-05",
+          "value": 180.0,
+          "text": "180"
+        },
+        {
+          "period": "2026-06",
+          "value": 190.0,
+          "text": "190"
+        },
+        {
+          "period": "2026-07",
+          "value": 176.0,
+          "text": "176"
+        },
+        {
+          "period": "2026-08",
+          "value": 204.0,
+          "text": "204"
+        },
+        {
+          "period": "2026-09",
+          "value": 224.0,
+          "text": "224"
+        }
+      ]
+    },
+    {
+      "id": "customers",
+      "label": "Customers who wrote in",
+      "unit": "",
+      "better": "none",
+      "current": 111.0,
+      "current_text": "111",
+      "previous": 104.0,
+      "previous_text": "104",
+      "delta_abs": 7.0,
+      "delta_abs_text": "+7",
+      "delta_pct": 6.730769230769231,
+      "delta_text": "+6.7%",
+      "delta_sign": 1,
+      "statement": "Customers who wrote in: 111 in 2026-09; 104 in 2026-08 (+6.7%)",
+      "series": [
+        {
+          "period": "2026-04",
+          "value": 90.0,
+          "text": "90"
+        },
+        {
+          "period": "2026-05",
+          "value": 102.0,
+          "text": "102"
+        },
+        {
+          "period": "2026-06",
+          "value": 96.0,
+          "text": "96"
+        },
+        {
+          "period": "2026-07",
+          "value": 93.0,
+          "text": "93"
+        },
+        {
+          "period": "2026-08",
+          "value": 104.0,
+          "text": "104"
+        },
+        {
+          "period": "2026-09",
+          "value": 111.0,
+          "text": "111"
+        }
+      ]
+    },
+    {
+      "id": "median_resolution",
+      "label": "Median time to resolve",
+      "unit": "h",
+      "better": "down",
+      "current": 12.1,
+      "current_text": "12.1 h",
+      "previous": 14.1,
+      "previous_text": "14.1 h",
+      "delta_abs": -2.0,
+      "delta_abs_text": "-2.0 h",
+      "delta_pct": -14.184397163120568,
+      "delta_text": "-14.2%",
+      "delta_sign": -1,
+      "statement": "Median time to resolve: 12.1 h in 2026-09; 14.1 h in 2026-08 (-14.2%)",
+      "series": [
+        {
+          "period": "2026-04",
+          "value": 11.9,
+          "text": "11.9 h"
+        },
+        {
+          "period": "2026-05",
+          "value": 13.6,
+          "text": "13.6 h"
+        },
+        {
+          "period": "2026-06",
+          "value": 12.6,
+          "text": "12.6 h"
+        },
+        {
+          "period": "2026-07",
+          "value": 12.350000000000001,
+          "text": "12.4 h"
+        },
+        {
+          "period": "2026-08",
+          "value": 14.1,
+          "text": "14.1 h"
+        },
+        {
+          "period": "2026-09",
+          "value": 12.1,
+          "text": "12.1 h"
+        }
+      ]
+    },
+    {
+      "id": "p90_resolution",
+      "label": "Time to resolve, 90th percentile",
+      "unit": "h",
+      "better": "down",
+      "current": 56.10000000000006,
+      "current_text": "56.1 h",
+      "previous": 67.51,
+      "previous_text": "67.5 h",
+      "delta_abs": -11.409999999999947,
+      "delta_abs_text": "-11.4 h",
+      "delta_pct": -16.901199822248476,
+      "delta_text": "-16.9%",
+      "delta_sign": -1,
+      "statement": "Time to resolve, 90th percentile: 56.1 h in 2026-09; 67.5 h in 2026-08 (-16.9%)",
+      "series": [
+        {
+          "period": "2026-04",
+          "value": 72.13999999999999,
+          "text": "72.1 h"
+        },
+        {
+          "period": "2026-05",
+          "value": 67.8,
+          "text": "67.8 h"
+        },
+        {
+          "period": "2026-06",
+          "value": 59.059999999999974,
+          "text": "59.1 h"
+        },
+        {
+          "period": "2026-07",
+          "value": 57.400000000000084,
+          "text": "57.4 h"
+        },
+        {
+          "period": "2026-08",
+          "value": 67.51,
+          "text": "67.5 h"
+        },
+        {
+          "period": "2026-09",
+          "value": 56.10000000000006,
+          "text": "56.1 h"
+        }
+      ]
+    },
+    {
+      "id": "slow",
+      "label": "Tickets that took over 24 h",
+      "unit": "%",
+      "better": "down",
+      "current": 31.25,
+      "current_text": "31.3%",
+      "previous": 34.31372549019608,
+      "previous_text": "34.3%",
+      "delta_abs": -3.0637254901960773,
+      "delta_abs_text": "-3.1 pp",
+      "delta_pct": null,
+      "delta_text": "-3.1 pp",
+      "delta_sign": -1,
+      "statement": "Tickets that took over 24 h: 31.3% in 2026-09; 34.3% in 2026-08 (-3.1 pp)",
+      "series": [
+        {
+          "period": "2026-04",
+          "value": 27.976190476190474,
+          "text": "28.0%"
+        },
+        {
+          "period": "2026-05",
+          "value": 36.666666666666664,
+          "text": "36.7%"
+        },
+        {
+          "period": "2026-06",
+          "value": 27.36842105263158,
+          "text": "27.4%"
+        },
+        {
+          "period": "2026-07",
+          "value": 27.84090909090909,
+          "text": "27.8%"
+        },
+        {
+          "period": "2026-08",
+          "value": 34.31372549019608,
+          "text": "34.3%"
+        },
+        {
+          "period": "2026-09",
+          "value": 31.25,
+          "text": "31.3%"
+        }
+      ]
+    },
+    {
+      "id": "satisfaction",
+      "label": "Average satisfaction (1 to 5)",
+      "unit": "",
+      "better": "up",
+      "current": 3.892857142857143,
+      "current_text": "3.89",
+      "previous": 3.5294117647058822,
+      "previous_text": "3.53",
+      "delta_abs": 0.36344537815126055,
+      "delta_abs_text": "+0.36",
+      "delta_pct": 10.29761904761905,
+      "delta_text": "+10.3%",
+      "delta_sign": 1,
+      "statement": "Average satisfaction (1 to 5): 3.89 in 2026-09; 3.53 in 2026-08 (+10.3%)",
+      "series": [
+        {
+          "period": "2026-04",
+          "value": 3.514018691588785,
+          "text": "3.51"
+        },
+        {
+          "period": "2026-05",
+          "value": 3.596330275229358,
+          "text": "3.60"
+        },
+        {
+          "period": "2026-06",
+          "value": 3.5486725663716814,
+          "text": "3.55"
+        },
+        {
+          "period": "2026-07",
+          "value": 3.7117117117117115,
+          "text": "3.71"
+        },
+        {
+          "period": "2026-08",
+          "value": 3.5294117647058822,
+          "text": "3.53"
+        },
+        {
+          "period": "2026-09",
+          "value": 3.892857142857143,
+          "text": "3.89"
+        }
+      ]
+    }
+  ],
+  "breakdowns": [
+    {
+      "id": "by_category",
+      "label": "By category",
+      "by": "category",
+      "metrics": [
+        "opened",
+        "median_resolution",
+        "slow"
+      ],
+      "rows": [
+        {
+          "name": "Billing",
+          "values": {
+            "opened": "81",
+            "median_resolution": "9.7 h",
+            "slow": "17.3%"
+          },
+          "share_text": "36.2%"
+        },
+        {
+          "name": "Bug report",
+          "values": {
+            "opened": "44",
+            "median_resolution": "31.7 h",
+            "slow": "65.9%"
+          },
+          "share_text": "19.6%"
+        },
+        {
+          "name": "Login",
+          "values": {
+            "opened": "35",
+            "median_resolution": "3.8 h",
+            "slow": "0.0%"
+          },
+          "share_text": "15.6%"
+        },
+        {
+          "name": "Performance",
+          "values": {
+            "opened": "28",
+            "median_resolution": "19.9 h",
+            "slow": "42.9%"
+          },
+          "share_text": "12.5%"
+        },
+        {
+          "name": "Feature request",
+          "values": {
+            "opened": "20",
+            "median_resolution": "36.5 h",
+            "slow": "75.0%"
+          },
+          "share_text": "8.9%"
+        },
+        {
+          "name": "Other",
+          "values": {
+            "opened": "16",
+            "median_resolution": "6.9 h",
+            "slow": "0.0%"
+          },
+          "share_text": "7.1%"
+        }
+      ]
+    },
+    {
+      "id": "by_channel",
+      "label": "By channel",
+      "by": "channel",
+      "metrics": [
+        "opened",
+        "satisfaction"
+      ],
+      "rows": [
+        {
+          "name": "Email",
+          "values": {
+            "opened": "118",
+            "satisfaction": "3.88"
+          },
+          "share_text": "52.7%"
+        },
+        {
+          "name": "Chat",
+          "values": {
+            "opened": "73",
+            "satisfaction": "3.85"
+          },
+          "share_text": "32.6%"
+        },
+        {
+          "name": "Phone",
+          "values": {
+            "opened": "33",
+            "satisfaction": "4.05"
+          },
+          "share_text": "14.7%"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "2 rows have no usable 'opened' and were left out (first at lines 1147, 1148).",
+    "3 rows repeat an earlier 'ticket_id' and were left out (first at lines 533, 725, 933).",
+    "6 values in 'resolution_hours' could not be read as a number and were treated as empty (first at lines 72, 74, 79).",
+    "443 rows have an empty 'satisfaction'."
+  ]
+}

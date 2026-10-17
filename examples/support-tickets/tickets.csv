@@ -1,0 +1,1148 @@
+ticket_id,opened,category,channel,customer,agent,resolution_hours,satisfaction
+T-100003,2026-04-01,Login,Email,Customer-046,agent-01,2.6,
+T-100010,2026-04-01,Billing,Chat,Customer-055,agent-02,5.1,
+T-100037,2026-04-01,Login,Email,Customer-137,agent-06,5.3,3
+T-100060,2026-04-01,Bug report,Chat,Customer-007,agent-03,6.5,4
+T-100067,2026-04-01,Feature request,Phone,Customer-138,agent-03,168.8,2
+T-100102,2026-04-01,Billing,Chat,Customer-055,agent-06,12.3,
+T-100140,2026-04-01,Billing,Email,Customer-013,agent-04,12.6,4
+T-100141,2026-04-01,Other,Email,Customer-109,agent-05,3.7,4
+T-100167,2026-04-01,Bug report,Phone,Customer-061,agent-07,14.7,4
+T-100014,2026-04-02,Login,Email,Customer-140,agent-06,2.2,
+T-100071,2026-04-02,Bug report,Email,Customer-137,agent-07,17.3,
+T-100075,2026-04-02,Bug report,Phone,Customer-111,agent-07,8.4,5
+T-100121,2026-04-02,Login,Email,Customer-012,agent-05,2.2,4
+T-100126,2026-04-02,Performance,Chat,Customer-117,agent-05,101.2,1
+T-100149,2026-04-02,Login,Phone,Customer-075,agent-06,2.9,5
+T-100159,2026-04-02,Bug report,Email,Customer-022,agent-04,36.5,2
+T-100056,2026-04-03,Performance,Email,Customer-032,agent-01,21.7,4
+T-100088,2026-04-03,Bug report,Phone,Customer-130,agent-08,147.0,
+T-100104,2026-04-03,Login,Chat,Customer-006,agent-08,2.1,
+T-100128,2026-04-03,Bug report,Email,Customer-138,agent-06,69.2,2
+T-100148,2026-04-03,Bug report,Phone,Customer-006,agent-07,46.6,
+T-100155,2026-04-03,Bug report,Phone,Customer-018,agent-03,46.0,
+T-100157,2026-04-03,Login,Email,Customer-014,agent-01,6.9,
+T-100165,2026-04-03,Billing,Email,Customer-113,agent-02,1.4,4
+T-100055,2026-04-04,Login,Chat,Customer-098,agent-07,2.4,4
+T-100068,2026-04-04,Billing,Email,Customer-105,agent-06,2.7,4
+T-100100,2026-04-04,Feature request,Chat,Customer-131,agent-05,362.1,2
+T-100110,2026-04-04,Login,Email,Customer-099,agent-07,5.0,
+T-100124,2026-04-04,Bug report,Chat,Customer-002,agent-05,39.1,
+T-100164,2026-04-04,Performance,Phone,Customer-031,agent-03,4.5,4
+T-100005,2026-04-06,Login,Chat,Customer-045,agent-06,6.2,4
+T-100008,2026-04-06,Bug report,Email,Customer-128,agent-03,23.6,
+T-100032,2026-04-06,Feature request,Email,Customer-025,agent-01,35.2,
+T-100033,2026-04-06,Bug report,Chat,Customer-094,agent-04,61.8,2
+T-100035,2026-04-06,Performance,Chat,Customer-096,agent-06,109.8,
+T-100059,2026-04-06,Bug report,Chat,Customer-044,agent-03,65.4,
+T-100098,2026-04-06,Billing,Email,Customer-075,agent-05,7.3,4
+T-100002,2026-04-07,Performance,Chat,Customer-042,agent-05,59.4,1
+T-100009,2026-04-07,Billing,Email,Customer-102,agent-02,2.4,5
+T-100095,2026-04-07,Login,Chat,Customer-109,agent-02,6.3,
+T-100108,2026-04-07,Login,Email,Customer-019,agent-08,5.9,
+T-100122,2026-04-07,Login,Email,Customer-078,agent-03,1.8,4
+T-100138,2026-04-07,Bug report,Email,Customer-130,agent-02,36.4,
+T-100161,2026-04-07,Bug report,Chat,Customer-072,agent-07,14.4,5
+T-100109,2026-04-08,Performance,Email,Customer-013,agent-01,9.3,5
+T-100137,2026-04-08,Bug report,Chat,Customer-126,agent-01,8.2,5
+T-100021,2026-04-09,Bug report,Chat,Customer-117,agent-04,16.8,
+T-100057,2026-04-09,Login,Chat,Customer-051,agent-07,0.9,
+T-100063,2026-04-09,Billing,Email,Customer-025,agent-06,4.1,4
+T-100132,2026-04-09,Billing,Email,Customer-087,agent-01,2.7,4
+T-100147,2026-04-09,Bug report,Email,Customer-084,agent-05,23.6,
+T-100150,2026-04-09,Login,Email,Customer-075,agent-08,1.4,4
+T-100030,2026-04-10,Login,Email,Customer-017,agent-02,2.1,
+T-100044,2026-04-10,Billing,Email,Customer-120,agent-05,13.6,3
+T-100050,2026-04-10,Feature request,Email,Customer-095,agent-04,101.7,
+T-100072,2026-04-10,Billing,Email,Customer-003,agent-04,27.6,3
+T-100078,2026-04-10,Other,Email,Customer-078,agent-03,2.5,5
+T-100113,2026-04-10,Login,Email,Customer-055,agent-04,5.0,
+T-100131,2026-04-10,Billing,Email,Customer-053,agent-05,11.1,4
+T-100012,2026-04-11,Performance,Chat,Customer-004,agent-08,30.5,
+T-100027,2026-04-11,Bug report,Email,Customer-126,agent-05,40.6,3
+T-100039,2026-04-11,Billing,Chat,Customer-021,agent-04,5.5,
+T-100040,2026-04-11,Login,Email,Customer-127,agent-08,2.4,
+T-100119,2026-04-11,Other,Email,Customer-102,agent-01,5.8,
+T-100051,2026-04-13,Billing,Email,Customer-066,agent-05,59.9,3
+T-100083,2026-04-13,Billing,Email,Customer-100,agent-04,12.3,
+T-100107,2026-04-13,Billing,Email,Customer-035,agent-05,6.2,4
+T-100112,2026-04-13,Login,Chat,Customer-083,agent-03,2.9,
+T-100116,2026-04-13,Performance,Email,Customer-003,agent-07,71.6,1
+T-100129,2026-04-13,Login,Phone,Customer-068,agent-08,2.2,
+T-100154,2026-04-13,Bug report,Chat,Customer-112,agent-06,n/a,4
+T-100018,2026-04-14,Login,Phone,Customer-031,agent-03,14.9,3
+T-100023,2026-04-14,Other,Phone,Customer-018,agent-08,n/a,5
+T-100034,2026-04-14,Login,Email,Customer-028,agent-03,5.2,3
+T-100036,2026-04-14,Feature request,Email,Customer-042,agent-04,72.5,2
+T-100048,2026-04-14,Feature request,Chat,Customer-083,agent-05,92.3,2
+T-100082,2026-04-14,Performance,Email,Customer-080,agent-01,68.1,1
+T-100029,2026-04-15,Bug report,Email,Customer-103,agent-06,n/a,
+T-100041,2026-04-15,Bug report,Email,Customer-101,agent-01,163.1,1
+T-100070,2026-04-15,Performance,Email,Customer-113,agent-01,5.6,
+T-100084,2026-04-15,Performance,Email,Customer-133,agent-02,73.6,1
+T-100086,2026-04-15,Bug report,Email,Customer-084,agent-02,47.3,2
+T-100123,2026-04-15,Billing,Email,Customer-072,agent-06,10.9,
+T-100135,2026-04-15,Other,Email,Customer-097,agent-01,24.2,
+T-100006,2026-04-16,Login,Chat,Customer-119,agent-02,2.4,5
+T-100020,2026-04-16,Performance,Phone,Customer-101,agent-07,22.4,
+T-100026,2026-04-16,Performance,Chat,Customer-120,agent-02,9.6,
+T-100031,2026-04-16,Login,Chat,Customer-094,agent-03,1.8,
+T-100061,2026-04-16,Billing,Email,Customer-102,agent-01,9.1,4
+T-100094,2026-04-16,Bug report,Email,Customer-057,agent-05,12.2,
+T-100097,2026-04-16,Billing,Email,Customer-117,agent-06,13.6,5
+T-100103,2026-04-16,Feature request,Email,Customer-089,agent-07,75.3,
+T-100111,2026-04-16,Billing,Phone,Customer-101,agent-02,8.4,
+T-100011,2026-04-17,Billing,Email,Customer-131,agent-06,26.9,
+T-100077,2026-04-17,Bug report,Email,Customer-125,agent-05,134.5,1
+T-100089,2026-04-17,Bug report,Phone,Customer-007,agent-07,13.3,
+T-100090,2026-04-17,Login,Phone,Customer-101,agent-04,18.9,3
+T-100099,2026-04-17,Login,Email,Customer-131,agent-03,0.4,4
+T-100136,2026-04-17,Login,Phone,Customer-035,agent-02,2.6,
+T-100024,2026-04-18,Login,Chat,Customer-129,agent-01,3.5,4
+T-100028,2026-04-18,Feature request,Email,Customer-057,agent-01,77.5,1
+T-100045,2026-04-18,Login,Email,Customer-010,agent-07,1.8,
+T-100047,2026-04-18,Billing,Chat,Customer-097,agent-04,13.3,5
+T-100091,2026-04-18,Billing,Phone,Customer-139,agent-03,5.7,4
+T-100144,2026-04-18,Performance,Email,Customer-014,agent-05,14.7,3
+T-100152,2026-04-18,Billing,Email,Customer-074,agent-03,10.9,5
+T-100001,2026-04-20,Login,Chat,Customer-085,agent-03,2.3,5
+T-100066,2026-04-20,Bug report,Phone,Customer-129,agent-03,46.1,3
+T-100145,2026-04-20,Login,Email,Customer-123,agent-06,3.7,5
+T-100146,2026-04-20,Other,Chat,Customer-103,agent-02,8.4,4
+T-100156,2026-04-20,Performance,Phone,Customer-016,agent-02,23.5,
+T-100025,2026-04-21,Performance,Email,Customer-110,agent-02,18.5,4
+T-100042,2026-04-21,Login,Email,Customer-003,agent-03,2.0,5
+T-100049,2026-04-21,Performance,Phone,Customer-034,agent-07,371.5,2
+T-100101,2026-04-21,Feature request,Email,Customer-084,agent-08,16.2,4
+T-100118,2026-04-21,Feature request,Email,Customer-063,agent-07,13.4,4
+T-100130,2026-04-21,Bug report,Phone,Customer-138,agent-05,34.6,
+T-100134,2026-04-21,Other,Email,Customer-025,agent-06,6.0,3
+T-100153,2026-04-21,Other,Email,Customer-067,agent-07,14.9,4
+T-100013,2026-04-22,Bug report,Email,Customer-113,agent-01,9.4,4
+T-100017,2026-04-22,Performance,Chat,Customer-127,agent-06,18.0,2
+T-100120,2026-04-22,Billing,Email,Customer-013,agent-05,13.5,3
+T-100016,2026-04-23,Login,Email,Customer-091,agent-08,3.5,5
+T-100052,2026-04-23,Other,Chat,Customer-021,agent-08,16.0,5
+T-100054,2026-04-23,Other,Chat,Customer-109,agent-07,9.2,
+T-100064,2026-04-23,Bug report,Email,Customer-061,agent-04,24.9,3
+T-100065,2026-04-23,Other,Chat,Customer-013,agent-05,46.6,
+T-100085,2026-04-23,Other,Chat,Customer-024,agent-06,10.0,
+T-100092,2026-04-23,Login,Email,Customer-133,agent-07,1.1,
+T-100151,2026-04-23,Billing,Chat,Customer-112,agent-06,5.7,4
+T-100162,2026-04-23,Bug report,Phone,Customer-137,agent-01,15.8,
+T-100073,2026-04-24,Feature request,Email,Customer-097,agent-01,40.3,3
+T-100076,2026-04-24,Bug report,Chat,Customer-112,agent-01,30.2,
+T-100080,2026-04-24,Login,Email,Customer-094,agent-01,0.4,4
+T-100081,2026-04-24,Other,Email,Customer-065,agent-06,4.8,
+T-100115,2026-04-24,Performance,Email,Customer-072,agent-02,3.0,5
+T-100125,2026-04-24,Feature request,Chat,Customer-094,agent-01,51.2,3
+T-100143,2026-04-24,Login,Chat,Customer-133,agent-08,2.3,4
+T-100158,2026-04-24,Billing,Email,Customer-072,agent-03,8.6,4
+T-100166,2026-04-24,Feature request,Chat,Customer-133,agent-04,106.2,2
+T-100053,2026-04-25,Login,Email,Customer-035,agent-04,0.9,5
+T-100093,2026-04-25,Login,Email,Customer-131,agent-04,3.7,5
+T-100096,2026-04-25,Login,Chat,Customer-093,agent-05,6.2,4
+T-100127,2026-04-25,Login,Chat,Customer-040,agent-05,5.2,
+T-100139,2026-04-25,Bug report,Chat,Customer-039,agent-06,148.6,1
+T-100074,2026-04-27,Bug report,Email,Customer-113,agent-08,55.5,3
+T-100163,2026-04-27,Bug report,Email,Customer-022,agent-06,45.1,
+T-100058,2026-04-28,Login,Chat,Customer-106,agent-08,2.6,4
+T-100069,2026-04-28,Bug report,Phone,Customer-046,agent-02,11.9,3
+T-100087,2026-04-28,Billing,Phone,Customer-022,agent-06,5.2,5
+T-100168,2026-04-28,Login,Chat,Customer-091,agent-04,3.9,4
+T-100004,2026-04-29,Performance,Email,Customer-079,agent-06,35.4,1
+T-100015,2026-04-29,Performance,Phone,Customer-134,agent-06,12.7,4
+T-100022,2026-04-29,Bug report,Chat,Customer-045,agent-07,66.1,
+T-100038,2026-04-29,Billing,Chat,Customer-005,agent-01,15.2,4
+T-100046,2026-04-29,Billing,Chat,Customer-077,agent-07,22.7,4
+T-100079,2026-04-29,Feature request,Email,Customer-094,agent-08,73.3,1
+T-100105,2026-04-29,Performance,Email,Customer-004,agent-05,19.2,3
+T-100106,2026-04-29,Performance,Phone,Customer-067,agent-07,10.0,
+T-100117,2026-04-29,Login,Email,Customer-002,agent-03,4.5,4
+T-100160,2026-04-29,Performance,Chat,Customer-042,agent-07,6.8,
+T-100007,2026-04-30,Billing,Phone,Customer-033,agent-02,7.7,
+T-100019,2026-04-30,Feature request,Email,Customer-088,agent-04,20.2,3
+T-100043,2026-04-30,Other,Phone,Customer-006,agent-03,13.9,5
+T-100062,2026-04-30,Bug report,Email,Customer-063,agent-06,22.1,5
+T-100114,2026-04-30,Login,Email,Customer-045,agent-08,2.8,4
+T-100133,2026-04-30,Billing,Email,Customer-115,agent-04,4.1,3
+T-100142,2026-04-30,Login,Email,Customer-074,agent-04,4.5,4
+T-100217,2026-05-01,Billing,Chat,Customer-089,agent-05,12.1,4
+T-100222,2026-05-01,Other,Chat,Customer-028,agent-03,18.3,4
+T-100243,2026-05-01,Login,Email,Customer-048,agent-04,1.8,5
+T-100245,2026-05-01,Login,Chat,Customer-098,agent-06,13.4,4
+T-100271,2026-05-01,Login,Email,Customer-045,agent-03,2.3,
+T-100297,2026-05-01,Other,Chat,Customer-080,agent-05,2.4,4
+T-100212,2026-05-02,Performance,Chat,Customer-060,agent-07,59.7,1
+T-100247,2026-05-02,Login,Chat,Customer-094,agent-03,10.9,
+T-100268,2026-05-02,Feature request,Chat,Customer-050,agent-03,67.4,1
+T-100333,2026-05-02,Bug report,Email,Customer-024,agent-02,27.2,3
+T-100346,2026-05-02,Performance,Chat,Customer-048,agent-08,113.6,
+T-100235,2026-05-04,Other,Email,Customer-001,agent-06,8.0,
+T-100264,2026-05-04,Login,Phone,Customer-124,agent-02,4.2,3
+T-100290,2026-05-04,Bug report,Email,Customer-063,agent-04,17.0,4
+T-100299,2026-05-04,Bug report,Phone,Customer-064,agent-07,83.2,
+T-100328,2026-05-04,Billing,Chat,Customer-024,agent-06,11.3,
+T-100338,2026-05-04,Billing,Email,Customer-087,agent-04,23.1,3
+T-100188,2026-05-05,Bug report,Email,Customer-104,agent-02,44.8,2
+T-100189,2026-05-05,Feature request,Chat,Customer-124,agent-07,67.6,1
+T-100251,2026-05-05,Bug report,Phone,Customer-115,agent-04,94.3,3
+T-100276,2026-05-05,Bug report,Phone,Customer-117,agent-08,61.3,3
+T-100283,2026-05-05,Bug report,Chat,Customer-001,agent-08,23.2,
+T-100298,2026-05-05,Performance,Email,Customer-017,agent-07,166.9,
+T-100327,2026-05-05,Login,Email,Customer-126,agent-02,0.9,
+T-100340,2026-05-05,Billing,Phone,Customer-064,agent-03,5.8,
+T-100185,2026-05-06,Bug report,Email,Customer-079,agent-04,75.5,1
+T-100190,2026-05-06,Feature request,Email,Customer-125,agent-04,111.9,
+T-100200,2026-05-06,Login,Phone,Customer-128,agent-04,6.8,5
+T-100214,2026-05-06,Bug report,Email,Customer-017,agent-06,23.8,
+T-100233,2026-05-06,Other,Email,Customer-092,agent-01,3.9,4
+T-100240,2026-05-06,Performance,Email,Customer-028,agent-07,7.7,
+T-100342,2026-05-06,Performance,Chat,Customer-132,agent-02,16.2,4
+T-100191,2026-05-07,Login,Email,Customer-035,agent-01,8.5,3
+T-100201,2026-05-07,Billing,Phone,Customer-108,agent-01,9.3,
+T-100208,2026-05-07,Login,Email,Customer-074,agent-02,6.6,
+T-100209,2026-05-07,Billing,Phone,Customer-076,agent-01,5.1,4
+T-100220,2026-05-07,Login,Chat,Customer-087,agent-08,1.8,
+T-100321,2026-05-07,Feature request,Email,Customer-134,agent-02,30.3,4
+T-100175,2026-05-08,Login,Email,Customer-010,agent-01,0.5,5
+T-100176,2026-05-08,Login,Email,Customer-013,agent-01,6.5,4
+T-100186,2026-05-08,Bug report,Chat,Customer-014,agent-05,9.3,4
+T-100221,2026-05-08,Billing,Email,Customer-065,agent-06,26.7,
+T-100227,2026-05-08,Bug report,Email,Customer-125,agent-07,11.4,4
+T-100228,2026-05-08,Bug report,Email,Customer-029,agent-07,39.8,2
+T-100246,2026-05-08,Bug report,Email,Customer-054,agent-07,124.7,2
+T-100287,2026-05-08,Performance,Chat,Customer-123,agent-04,21.8,
+T-100318,2026-05-08,Performance,Chat,Customer-041,agent-06,7.9,4
+T-100319,2026-05-08,Billing,Email,Customer-034,agent-02,4.2,4
+T-100178,2026-05-09,Billing,Email,Customer-065,agent-08,10.1,
+T-100230,2026-05-09,Other,Phone,Customer-116,agent-02,9.0,5
+T-100239,2026-05-09,Other,Email,Customer-124,agent-06,1.6,
+T-100252,2026-05-09,Billing,Email,Customer-056,agent-05,10.7,
+T-100256,2026-05-09,Bug report,Chat,Customer-065,agent-06,59.2,
+T-100275,2026-05-09,Performance,Email,Customer-002,agent-01,72.5,1
+T-100300,2026-05-09,Performance,Phone,Customer-032,agent-08,57.4,
+T-100348,2026-05-09,Billing,Email,Customer-080,agent-02,37.8,
+T-100184,2026-05-11,Bug report,Email,Customer-027,agent-01,11.3,
+T-100196,2026-05-11,Performance,Email,Customer-139,agent-03,21.9,
+T-100202,2026-05-11,Login,Phone,Customer-019,agent-02,1.0,5
+T-100266,2026-05-11,Other,Email,Customer-023,agent-04,2.7,4
+T-100269,2026-05-11,Billing,Email,Customer-040,agent-08,55.8,
+T-100272,2026-05-11,Bug report,Chat,Customer-060,agent-08,26.2,4
+T-100289,2026-05-11,Billing,Phone,Customer-123,agent-07,17.6,3
+T-100293,2026-05-11,Billing,Email,Customer-002,agent-03,3.4,5
+T-100296,2026-05-11,Billing,Email,Customer-071,agent-02,4.4,
+T-100313,2026-05-11,Login,Email,Customer-111,agent-04,3.6,3
+T-100314,2026-05-11,Login,Phone,Customer-033,agent-03,2.3,
+T-100317,2026-05-11,Bug report,Email,Customer-139,agent-05,58.0,3
+T-100322,2026-05-11,Feature request,Chat,Customer-092,agent-06,39.7,3
+T-100198,2026-05-12,Feature request,Email,Customer-102,agent-07,133.7,1
+T-100213,2026-05-12,Login,Chat,Customer-096,agent-02,1.2,5
+T-100219,2026-05-12,Login,Phone,Customer-124,agent-07,8.0,
+T-100242,2026-05-12,Billing,Email,Customer-123,agent-05,13.6,4
+T-100307,2026-05-12,Performance,Email,Customer-049,agent-02,11.9,5
+T-100316,2026-05-12,Billing,Email,Customer-047,agent-02,3.8,4
+T-100331,2026-05-12,Login,Email,Customer-010,agent-07,2.0,4
+T-100173,2026-05-13,Bug report,Chat,Customer-020,agent-01,67.8,
+T-100204,2026-05-13,Billing,Email,Customer-053,agent-06,5.0,
+T-100224,2026-05-13,Login,Email,Customer-082,agent-07,4.0,4
+T-100254,2026-05-13,Bug report,Email,Customer-079,agent-08,39.8,4
+T-100255,2026-05-13,Performance,Email,Customer-139,agent-04,26.0,
+T-100285,2026-05-13,Billing,Email,Customer-023,agent-02,5.1,5
+T-100301,2026-05-13,Feature request,Email,Customer-110,agent-04,33.7,3
+T-100183,2026-05-14,Billing,Phone,Customer-047,agent-03,12.5,
+T-100223,2026-05-14,Other,Phone,Customer-087,agent-03,1.7,
+T-100231,2026-05-14,Bug report,Phone,Customer-103,agent-01,27.2,
+T-100249,2026-05-14,Performance,Email,Customer-113,agent-04,29.5,4
+T-100260,2026-05-14,Bug report,Chat,Customer-035,agent-01,42.2,3
+T-100329,2026-05-14,Login,Email,Customer-055,agent-06,2.2,5
+T-100207,2026-05-15,Other,Phone,Customer-095,agent-05,27.3,3
+T-100270,2026-05-15,Bug report,Phone,Customer-016,agent-04,140.5,3
+T-100291,2026-05-15,Billing,Email,Customer-039,agent-07,10.6,
+T-100295,2026-05-15,Bug report,Email,Customer-115,agent-01,145.4,
+T-100323,2026-05-15,Feature request,Email,Customer-010,agent-08,40.9,3
+T-100347,2026-05-15,Bug report,Phone,Customer-024,agent-08,72.3,
+T-100236,2026-05-16,Other,Email,Customer-105,agent-04,5.3,5
+T-100278,2026-05-16,Other,Phone,Customer-063,agent-01,6.6,
+T-100279,2026-05-16,Performance,Chat,Customer-032,agent-07,67.8,1
+T-100292,2026-05-16,Other,Email,Customer-072,agent-07,8.0,5
+T-100325,2026-05-16,Login,Email,Customer-068,agent-02,1.7,5
+T-100330,2026-05-16,Bug report,Chat,Customer-078,agent-05,7.8,4
+T-100177,2026-05-18,Billing,Email,Customer-056,agent-08,2.5,5
+T-100218,2026-05-18,Billing,Chat,Customer-120,agent-05,4.5,5
+T-100261,2026-05-18,Login,Email,Customer-067,agent-07,9.0,
+T-100288,2026-05-18,Feature request,Phone,Customer-001,agent-07,13.1,
+T-100343,2026-05-18,Performance,Chat,Customer-033,agent-04,5.5,5
+T-100344,2026-05-18,Other,Email,Customer-057,agent-02,3.9,5
+T-100174,2026-05-19,Bug report,Email,Customer-020,agent-05,30.6,
+T-100179,2026-05-19,Billing,Chat,Customer-005,agent-01,1.8,
+T-100180,2026-05-19,Bug report,Email,Customer-087,agent-05,45.5,2
+T-100232,2026-05-19,Bug report,Email,Customer-102,agent-04,17.3,
+T-100267,2026-05-19,Billing,Email,Customer-077,agent-03,29.2,
+T-100284,2026-05-19,Login,Email,Customer-139,agent-07,1.4,5
+T-100286,2026-05-19,Login,Chat,Customer-030,agent-06,9.2,5
+T-100305,2026-05-19,Login,Chat,Customer-124,agent-06,3.1,4
+T-100309,2026-05-19,Billing,Chat,Customer-004,agent-03,4.9,
+T-100195,2026-05-20,Feature request,Email,Customer-004,agent-01,22.7,
+T-100216,2026-05-20,Billing,Email,Customer-085,agent-02,4.4,
+T-100238,2026-05-20,Performance,Email,Customer-055,agent-02,41.5,2
+T-100250,2026-05-20,Performance,Email,Customer-021,agent-05,26.9,5
+T-100265,2026-05-20,Feature request,Email,Customer-093,agent-02,37.4,3
+T-100306,2026-05-20,Performance,Email,Customer-009,agent-08,18.2,
+T-100170,2026-05-21,Login,Chat,Customer-026,agent-07,7.7,5
+T-100193,2026-05-21,Login,Email,Customer-039,agent-05,3.1,4
+T-100234,2026-05-21,Performance,Phone,Customer-101,agent-05,18.3,4
+T-100273,2026-05-21,Login,Email,Customer-127,agent-02,3.6,
+T-100302,2026-05-21,Billing,Email,Customer-131,agent-04,7.9,5
+T-100303,2026-05-21,Login,Chat,Customer-111,agent-05,1.1,
+T-100308,2026-05-21,Login,Email,Customer-036,agent-07,5.8,
+T-100311,2026-05-21,Performance,Phone,Customer-126,agent-02,14.5,4
+T-100335,2026-05-21,Feature request,Email,Customer-054,agent-04,86.5,
+T-100349,2026-05-21,Billing,Email,Customer-008,agent-07,33.1,
+T-100182,2026-05-22,Bug report,Chat,Customer-087,agent-03,46.7,3
+T-100210,2026-05-22,Billing,Phone,Customer-041,agent-02,24.2,
+T-100257,2026-05-22,Feature request,Email,Customer-083,agent-03,39.9,4
+T-100294,2026-05-22,Performance,Email,Customer-101,agent-03,14.3,
+T-100345,2026-05-22,Billing,Phone,Customer-010,agent-03,6.6,4
+T-100171,2026-05-23,Feature request,Chat,Customer-106,agent-01,101.0,1
+T-100187,2026-05-23,Login,Phone,Customer-098,agent-05,6.3,4
+T-100192,2026-05-23,Bug report,Email,Customer-009,agent-02,15.2,
+T-100194,2026-05-23,Bug report,Phone,Customer-030,agent-07,21.7,3
+T-100205,2026-05-23,Other,Email,Customer-023,agent-06,4.8,4
+T-100211,2026-05-23,Feature request,Chat,Customer-135,agent-08,161.8,1
+T-100241,2026-05-23,Performance,Chat,Customer-114,agent-08,23.9,2
+T-100274,2026-05-23,Bug report,Email,Customer-091,agent-02,24.7,4
+T-100315,2026-05-23,Billing,Chat,Customer-131,agent-08,8.5,5
+T-100334,2026-05-23,Performance,Email,Customer-065,agent-02,58.5,3
+T-100172,2026-05-25,Login,Email,Customer-102,agent-04,1.8,4
+T-100197,2026-05-25,Billing,Chat,Customer-006,agent-08,26.9,4
+T-100281,2026-05-25,Bug report,Phone,Customer-093,agent-04,17.8,
+T-100282,2026-05-25,Feature request,Email,Customer-066,agent-03,32.2,
+T-100324,2026-05-25,Login,Email,Customer-033,agent-05,6.1,5
+T-100332,2026-05-25,Bug report,Email,Customer-117,agent-08,11.4,
+T-100181,2026-05-26,Bug report,Email,Customer-083,agent-02,33.6,3
+T-100206,2026-05-26,Bug report,Email,Customer-081,agent-01,41.2,
+T-100237,2026-05-26,Feature request,Phone,Customer-126,agent-07,44.4,3
+T-100253,2026-05-26,Login,Email,Customer-004,agent-01,2.5,
+T-100304,2026-05-26,Feature request,Phone,Customer-022,agent-04,32.7,4
+T-100310,2026-05-26,Login,Email,Customer-045,agent-02,4.9,4
+T-100199,2026-05-27,Bug report,Email,Customer-121,agent-08,14.8,
+T-100263,2026-05-27,Billing,Phone,Customer-063,agent-01,17.8,5
+T-100320,2026-05-27,Login,Email,Customer-076,agent-02,2.0,4
+T-100326,2026-05-27,Billing,Chat,Customer-014,agent-07,3.7,4
+T-100336,2026-05-27,Bug report,Email,Customer-079,agent-04,9.7,4
+T-100337,2026-05-27,Billing,Chat,Customer-009,agent-02,16.3,4
+T-100169,2026-05-28,Login,Phone,Customer-127,agent-08,2.7,
+T-100244,2026-05-28,Performance,Email,Customer-018,agent-02,43.1,2
+T-100248,2026-05-28,Bug report,Email,Customer-061,agent-02,36.7,3
+T-100258,2026-05-28,Performance,Chat,Customer-083,agent-06,5.3,
+T-100259,2026-05-28,Performance,Email,Customer-050,agent-08,76.2,1
+T-100339,2026-05-28,Billing,Email,Customer-067,agent-06,9.7,
+T-100203,2026-05-29,Performance,Email,Customer-137,agent-04,7.4,4
+T-100215,2026-05-29,Performance,Email,Customer-137,agent-04,18.2,4
+T-100225,2026-05-29,Performance,Email,Customer-118,agent-05,24.4,
+T-100280,2026-05-29,Billing,Chat,Customer-077,agent-04,13.6,
+T-100226,2026-05-30,Login,Email,Customer-019,agent-06,1.5,4
+T-100229,2026-05-30,Bug report,Phone,Customer-104,agent-02,42.3,
+T-100262,2026-05-30,Login,Phone,Customer-066,agent-01,6.6,
+T-100277,2026-05-30,Bug report,Email,Customer-046,agent-02,46.3,3
+T-100341,2026-05-30,Feature request,Email,Customer-007,agent-08,70.9,2
+T-100381,2026-06-01,Billing,Email,Customer-112,agent-05,6.1,4
+T-100428,2026-06-01,Other,Phone,Customer-059,agent-01,8.8,
+T-100461,2026-06-01,Billing,Chat,Customer-091,agent-02,9.7,4
+T-100537,2026-06-01,Bug report,Phone,Customer-034,agent-01,38.9,
+T-100351,2026-06-02,Billing,Chat,Customer-024,agent-05,23.4,
+T-100361,2026-06-02,Billing,Email,Customer-056,agent-03,2.6,5
+T-100396,2026-06-02,Bug report,Chat,Customer-040,agent-03,9.0,
+T-100445,2026-06-02,Bug report,Chat,Customer-071,agent-05,12.5,3
+T-100470,2026-06-02,Login,Email,Customer-092,agent-07,1.6,3
+T-100477,2026-06-02,Performance,Email,Customer-126,agent-03,30.3,
+T-100523,2026-06-02,Performance,Phone,Customer-031,agent-01,4.2,5
+T-100533,2026-06-02,Feature request,Email,Customer-056,agent-07,86.4,
+T-100417,2026-06-03,Login,Email,Customer-137,agent-02,5.4,4
+T-100425,2026-06-03,Bug report,Chat,Customer-009,agent-04,85.7,2
+T-100457,2026-06-03,Bug report,Chat,Customer-008,agent-04,34.2,
+T-100464,2026-06-03,Login,Email,Customer-081,agent-07,0.8,4
+T-100493,2026-06-03,Bug report,Phone,Customer-069,agent-05,41.6,
+T-100496,2026-06-03,Performance,Email,Customer-135,agent-06,79.8,1
+T-100511,2026-06-03,Billing,Chat,Customer-002,agent-06,17.5,
+T-100515,2026-06-03,Billing,Email,Customer-133,agent-01,10.8,
+T-100525,2026-06-03,Login,Email,Customer-125,agent-07,1.5,
+T-100527,2026-06-03,Login,Email,Customer-101,agent-02,4.6,5
+T-100354,2026-06-04,Login,Email,Customer-109,agent-01,3.4,5
+T-100358,2026-06-04,Billing,Email,Customer-006,agent-06,11.6,
+T-100406,2026-06-04,Login,Email,Customer-082,agent-01,1.8,
+T-100424,2026-06-04,Billing,Chat,Customer-054,agent-08,6.0,4
+T-100427,2026-06-04,Performance,Chat,Customer-011,agent-08,23.6,
+T-100431,2026-06-04,Login,Phone,Customer-053,agent-04,1.6,4
+T-100443,2026-06-04,Login,Email,Customer-075,agent-08,7.5,4
+T-100447,2026-06-04,Login,Email,Customer-127,agent-02,2.0,
+T-100484,2026-06-04,Performance,Email,Customer-069,agent-08,16.4,
+T-100495,2026-06-04,Bug report,Email,Customer-009,agent-06,38.5,
+T-100497,2026-06-04,Bug report,Email,Customer-012,agent-08,15.0,3
+T-100498,2026-06-04,Performance,Phone,Customer-109,agent-07,19.0,
+T-100522,2026-06-04,Billing,Email,Customer-124,agent-03,9.3,4
+T-100531,2026-06-04,Bug report,Email,Customer-121,agent-02,53.0,
+T-100359,2026-06-05,Performance,Email,Customer-114,agent-03,8.8,5
+T-100408,2026-06-05,Bug report,Email,Customer-046,agent-02,53.1,3
+T-100432,2026-06-05,Login,Email,Customer-037,agent-07,1.6,4
+T-100444,2026-06-05,Performance,Email,Customer-120,agent-08,20.5,
+T-100463,2026-06-05,Billing,Chat,Customer-020,agent-08,6.0,4
+T-100465,2026-06-05,Bug report,Chat,Customer-086,agent-05,6.5,
+T-100385,2026-06-06,Bug report,Chat,Customer-038,agent-02,10.3,4
+T-100411,2026-06-06,Feature request,Chat,Customer-061,agent-01,27.3,4
+T-100414,2026-06-06,Other,Chat,Customer-102,agent-06,2.6,5
+T-100415,2026-06-06,Billing,Chat,Customer-001,agent-02,5.6,5
+T-100481,2026-06-06,Bug report,Email,Customer-024,agent-01,17.4,5
+T-100535,2026-06-06,Login,Chat,Customer-123,agent-07,4.8,5
+T-100538,2026-06-06,Login,Email,Customer-065,agent-02,8.7,
+T-100398,2026-06-08,Login,Email,Customer-009,agent-04,0.9,4
+T-100429,2026-06-08,Login,Phone,Customer-007,agent-06,0.5,
+T-100474,2026-06-08,Bug report,Email,Customer-059,agent-05,17.5,3
+T-100506,2026-06-08,Other,Chat,Customer-100,agent-02,16.8,
+T-100530,2026-06-08,Performance,Chat,Customer-026,agent-06,58.6,1
+T-100350,2026-06-09,Performance,Email,Customer-064,agent-03,14.7,
+T-100364,2026-06-09,Performance,Chat,Customer-139,agent-04,11.4,4
+T-100404,2026-06-09,Performance,Phone,Customer-059,agent-04,12.3,
+T-100436,2026-06-09,Billing,Phone,Customer-126,agent-05,18.3,4
+T-100450,2026-06-09,Billing,Email,Customer-100,agent-02,17.7,4
+T-100490,2026-06-09,Login,Phone,Customer-027,agent-02,2.8,3
+T-100388,2026-06-10,Other,Chat,Customer-059,agent-03,3.0,4
+T-100400,2026-06-10,Billing,Email,Customer-014,agent-02,7.5,5
+T-100416,2026-06-10,Bug report,Chat,Customer-034,agent-05,123.3,2
+T-100420,2026-06-10,Billing,Email,Customer-015,agent-02,14.5,
+T-100434,2026-06-10,Bug report,Email,Customer-068,agent-05,13.0,
+T-100472,2026-06-10,Bug report,Chat,Customer-058,agent-08,17.9,
+T-100483,2026-06-10,Billing,Email,Customer-074,agent-01,6.2,5
+T-100507,2026-06-10,Feature request,Chat,Customer-011,agent-05,75.8,2
+T-100407,2026-06-11,Login,Chat,Customer-105,agent-06,3.7,5
+T-100446,2026-06-11,Bug report,Email,Customer-073,agent-01,27.1,3
+T-100509,2026-06-11,Performance,Email,Customer-075,agent-04,76.2,1
+T-100521,2026-06-11,Other,Email,Customer-089,agent-04,6.6,
+T-100532,2026-06-11,Bug report,Email,Customer-106,agent-05,98.6,1
+T-100371,2026-06-12,Bug report,Email,Customer-073,agent-08,14.3,4
+T-100376,2026-06-12,Billing,Chat,Customer-027,agent-02,6.5,3
+T-100386,2026-06-12,Billing,Email,Customer-098,agent-03,10.1,
+T-100387,2026-06-12,Bug report,Email,Customer-099,agent-08,18.6,
+T-100399,2026-06-12,Billing,Chat,Customer-062,agent-01,20.5,
+T-100409,2026-06-12,Billing,Email,Customer-104,agent-03,10.6,
+T-100504,2026-06-12,Login,Email,Customer-090,agent-07,1.4,4
+T-100510,2026-06-12,Billing,Email,Customer-034,agent-03,32.0,
+T-100536,2026-06-12,Billing,Phone,Customer-027,agent-02,50.0,2
+T-100352,2026-06-13,Login,Email,Customer-100,agent-05,1.8,5
+T-100355,2026-06-13,Performance,Email,Customer-001,agent-04,18.7,4
+T-100389,2026-06-13,Billing,Email,Customer-104,agent-04,4.7,5
+T-100401,2026-06-13,Login,Email,Customer-104,agent-06,13.9,4
+T-100402,2026-06-13,Feature request,Email,Customer-050,agent-03,23.1,
+T-100403,2026-06-13,Feature request,Email,Customer-036,agent-02,10.2,3
+T-100421,2026-06-13,Billing,Email,Customer-074,agent-07,28.4,3
+T-100453,2026-06-13,Bug report,Email,Customer-029,agent-05,43.1,
+T-100458,2026-06-13,Bug report,Chat,Customer-015,agent-07,40.3,5
+T-100516,2026-06-13,Performance,Email,Customer-040,agent-04,15.9,5
+T-100433,2026-06-15,Other,Email,Customer-056,agent-01,12.7,
+T-100451,2026-06-15,Bug report,Chat,Customer-005,agent-03,44.0,2
+T-100489,2026-06-15,Login,Phone,Customer-015,agent-02,1.4,
+T-100529,2026-06-15,Billing,Email,Customer-100,agent-05,11.6,3
+T-100534,2026-06-15,Login,Phone,Customer-127,agent-03,1.9,
+T-100360,2026-06-16,Bug report,Email,Customer-026,agent-05,199.3,
+T-100365,2026-06-16,Login,Chat,Customer-119,agent-04,7.1,5
+T-100373,2026-06-16,Bug report,Email,Customer-089,agent-05,27.2,3
+T-100379,2026-06-16,Bug report,Chat,Customer-053,agent-05,11.0,4
+T-100393,2026-06-16,Other,Email,Customer-128,agent-05,3.3,5
+T-100437,2026-06-16,Billing,Email,Customer-104,agent-04,4.6,
+T-100440,2026-06-16,Other,Email,Customer-130,agent-05,6.9,2
+T-100454,2026-06-16,Bug report,Email,Customer-023,agent-03,114.9,2
+T-100471,2026-06-16,Bug report,Chat,Customer-013,agent-07,48.4,
+T-100479,2026-06-16,Login,Chat,Customer-095,agent-07,3.7,
+T-100491,2026-06-16,Bug report,Email,Customer-091,agent-03,286.3,1
+T-100501,2026-06-16,Login,Email,Customer-090,agent-05,1.4,5
+T-100505,2026-06-16,Performance,Phone,Customer-109,agent-03,6.8,3
+T-100353,2026-06-17,Billing,Chat,Customer-038,agent-05,6.7,
+T-100368,2026-06-17,Bug report,Chat,Customer-014,agent-06,42.4,2
+T-100397,2026-06-17,Bug report,Email,Customer-036,agent-03,42.3,
+T-100430,2026-06-17,Billing,Email,Customer-038,agent-07,14.3,3
+T-100452,2026-06-17,Performance,Email,Customer-065,agent-06,28.4,
+T-100468,2026-06-17,Billing,Chat,Customer-099,agent-03,7.8,
+T-100469,2026-06-17,Bug report,Email,Customer-068,agent-08,18.4,5
+T-100500,2026-06-17,Billing,Email,Customer-030,agent-03,15.5,3
+T-100518,2026-06-17,Login,Email,Customer-042,agent-05,8.2,4
+T-100520,2026-06-17,Billing,Email,Customer-040,agent-04,11.5,5
+T-100524,2026-06-17,Billing,Chat,Customer-094,agent-01,3.8,4
+T-100374,2026-06-18,Performance,Email,Customer-099,agent-05,11.9,5
+T-100382,2026-06-18,Performance,Email,Customer-085,agent-01,27.7,3
+T-100488,2026-06-18,Billing,Email,Customer-005,agent-03,21.5,4
+T-100503,2026-06-18,Billing,Chat,Customer-076,agent-05,16.2,
+T-100372,2026-06-19,Feature request,Email,Customer-042,agent-06,88.2,1
+T-100394,2026-06-19,Feature request,Email,Customer-024,agent-07,69.2,
+T-100413,2026-06-19,Bug report,Chat,Customer-047,agent-06,12.1,3
+T-100459,2026-06-19,Bug report,Phone,Customer-034,agent-06,20.7,3
+T-100462,2026-06-19,Login,Email,Customer-050,agent-06,2.0,5
+T-100486,2026-06-19,Billing,Chat,Customer-058,agent-04,13.8,4
+T-100487,2026-06-19,Billing,Email,Customer-027,agent-07,4.3,4
+T-100494,2026-06-19,Feature request,Email,Customer-008,agent-02,55.7,2
+T-100526,2026-06-19,Bug report,Email,Customer-079,agent-06,25.7,
+T-100375,2026-06-20,Billing,Chat,Customer-124,agent-06,50.2,3
+T-100426,2026-06-20,Performance,Chat,Customer-002,agent-03,10.2,3
+T-100441,2026-06-20,Billing,Chat,Customer-020,agent-07,15.7,
+T-100442,2026-06-20,Login,Phone,Customer-076,agent-02,13.4,4
+T-100476,2026-06-20,Bug report,Email,Customer-119,agent-06,48.7,2
+T-100485,2026-06-20,Bug report,Email,Customer-135,agent-07,71.7,
+T-100480,2026-06-22,Bug report,Chat,Customer-008,agent-03,17.3,4
+T-100528,2026-06-22,Billing,Email,Customer-053,agent-01,2.7,
+T-100362,2026-06-23,Login,Email,Customer-097,agent-04,6.0,4
+T-100383,2026-06-23,Performance,Email,Customer-059,agent-03,13.7,3
+T-100391,2026-06-23,Bug report,Phone,Customer-039,agent-04,14.6,4
+T-100395,2026-06-23,Login,Email,Customer-118,agent-07,0.9,
+T-100448,2026-06-23,Performance,Chat,Customer-027,agent-04,16.8,3
+T-100467,2026-06-23,Other,Phone,Customer-129,agent-01,36.0,
+T-100502,2026-06-23,Bug report,Email,Customer-112,agent-07,27.8,
+T-100517,2026-06-23,Performance,Chat,Customer-002,agent-04,10.8,5
+T-100519,2026-06-23,Billing,Email,Customer-024,agent-06,19.1,
+T-100356,2026-06-24,Billing,Email,Customer-014,agent-06,10.0,
+T-100377,2026-06-24,Performance,Email,Customer-115,agent-07,18.1,
+T-100390,2026-06-24,Performance,Chat,Customer-059,agent-08,116.4,1
+T-100435,2026-06-24,Login,Email,Customer-046,agent-04,9.4,
+T-100449,2026-06-24,Performance,Chat,Customer-132,agent-04,5.2,4
+T-100456,2026-06-24,Bug report,Email,Customer-137,agent-05,12.9,
+T-100473,2026-06-24,Login,Phone,Customer-063,agent-04,3.2,
+T-100514,2026-06-24,Bug report,Chat,Customer-008,agent-01,51.9,3
+T-100539,2026-06-24,Billing,Email,Customer-137,agent-03,7.3,4
+T-100367,2026-06-25,Billing,Email,Customer-135,agent-07,7.0,4
+T-100378,2026-06-25,Login,Chat,Customer-044,agent-01,4.0,4
+T-100380,2026-06-25,Billing,Phone,Customer-127,agent-01,24.4,3
+T-100412,2026-06-25,Bug report,Phone,Customer-089,agent-06,65.8,2
+T-100418,2026-06-25,Billing,Email,Customer-076,agent-05,3.5,3
+T-100439,2026-06-25,Login,Email,Customer-056,agent-04,2.1,
+T-100478,2026-06-25,Bug report,Chat,Customer-003,agent-02,33.7,3
+T-100357,2026-06-26,Login,Email,Customer-029,agent-07,0.7,3
+T-100392,2026-06-26,Billing,Chat,Customer-081,agent-06,7.9,5
+T-100405,2026-06-26,Billing,Chat,Customer-129,agent-08,3.6,
+T-100410,2026-06-26,Billing,Phone,Customer-107,agent-04,4.8,
+T-100419,2026-06-26,Other,Phone,Customer-110,agent-01,3.0,
+T-100422,2026-06-26,Billing,Email,Customer-133,agent-03,22.9,3
+T-100455,2026-06-26,Login,Chat,Customer-009,agent-01,2.3,
+T-100475,2026-06-26,Login,Chat,Customer-069,agent-05,8.1,
+T-100512,2026-06-26,Billing,Email,Customer-083,agent-05,2.1,5
+T-100363,2026-06-27,Billing,Email,Customer-075,agent-01,11.5,
+T-100366,2026-06-27,Feature request,Email,Customer-094,agent-08,19.1,
+T-100384,2026-06-27,Bug report,Email,Customer-033,agent-05,63.2,
+T-100423,2026-06-27,Bug report,Email,Customer-089,agent-05,121.4,2
+T-100438,2026-06-27,Billing,Email,Customer-109,agent-05,8.2,4
+T-100460,2026-06-27,Performance,Chat,Customer-126,agent-02,40.2,3
+T-100466,2026-06-27,Bug report,Email,Customer-031,agent-02,30.5,
+T-100466,2026-06-27,Bug report,Email,Customer-031,agent-02,30.5,
+T-100499,2026-06-27,Feature request,Chat,Customer-060,agent-02,81.8,1
+T-100370,2026-06-29,Login,Phone,Customer-079,agent-03,9.5,5
+T-100492,2026-06-29,Performance,Chat,Customer-140,agent-05,15.7,3
+T-100513,2026-06-29,Bug report,Email,Customer-094,agent-01,9.5,
+T-100369,2026-06-30,Login,Email,Customer-003,agent-02,1.2,
+T-100482,2026-06-30,Performance,Email,Customer-095,agent-05,238.5,
+T-100508,2026-06-30,Other,Chat,Customer-012,agent-07,11.5,
+T-100542,2026-07-01,Billing,Phone,Customer-066,agent-02,2.8,
+T-100543,2026-07-01,Performance,Phone,Customer-010,agent-03,22.6,
+T-100561,2026-07-01,Bug report,Email,Customer-117,agent-01,40.3,3
+T-100616,2026-07-01,Feature request,Chat,Customer-006,agent-08,38.9,2
+T-100638,2026-07-01,Performance,Email,Customer-097,agent-02,8.3,4
+T-100709,2026-07-01,Billing,Email,Customer-074,agent-03,14.0,5
+T-100558,2026-07-02,Performance,Email,Customer-132,agent-04,11.2,
+T-100577,2026-07-02,Bug report,Email,Customer-081,agent-08,183.2,
+T-100629,2026-07-02,Billing,Email,Customer-018,agent-07,14.5,5
+T-100646,2026-07-02,Billing,Email,Customer-095,agent-04,3.4,4
+T-100711,2026-07-02,Other,Chat,Customer-001,agent-07,14.2,4
+T-100544,2026-07-03,Login,Chat,Customer-078,agent-06,8.0,5
+T-100567,2026-07-03,Other,Email,Customer-018,agent-03,7.1,
+T-100605,2026-07-03,Bug report,Email,Customer-014,agent-05,10.0,
+T-100617,2026-07-03,Login,Email,Customer-001,agent-08,0.8,5
+T-100630,2026-07-03,Billing,Phone,Customer-019,agent-03,6.3,3
+T-100650,2026-07-03,Bug report,Chat,Customer-039,agent-01,63.6,
+T-100672,2026-07-03,Performance,Email,Customer-128,agent-03,48.6,3
+T-100696,2026-07-03,Feature request,Email,Customer-040,agent-08,58.9,
+T-100593,2026-07-04,Billing,Phone,Customer-087,agent-01,7.3,4
+T-100661,2026-07-04,Feature request,Email,Customer-127,agent-01,36.7,
+T-100684,2026-07-04,Login,Phone,Customer-082,agent-06,2.9,
+T-100695,2026-07-04,Bug report,Email,Customer-024,agent-04,48.1,3
+T-100704,2026-07-04,Performance,Email,Customer-017,agent-01,27.8,4
+T-100574,2026-07-06,Bug report,Chat,Customer-130,agent-02,16.6,4
+T-100590,2026-07-06,Feature request,Email,Customer-138,agent-01,83.4,2
+T-100614,2026-07-06,Billing,Chat,Customer-053,agent-07,6.6,4
+T-100640,2026-07-06,Bug report,Email,Customer-052,agent-02,15.7,3
+T-100686,2026-07-06,Other,Email,Customer-016,agent-03,5.9,3
+T-100700,2026-07-06,Billing,Email,Customer-106,agent-05,3.3,
+T-100701,2026-07-06,Billing,Email,Customer-047,agent-08,21.7,3
+T-100703,2026-07-06,Performance,Email,Customer-078,agent-01,10.1,5
+T-100552,2026-07-07,Login,Chat,Customer-060,agent-01,1.0,
+T-100560,2026-07-07,Billing,Chat,Customer-138,agent-06,16.4,3
+T-100598,2026-07-07,Feature request,Email,Customer-027,agent-07,46.0,
+T-100601,2026-07-07,Login,Chat,Customer-063,agent-04,10.9,
+T-100608,2026-07-07,Login,Email,Customer-109,agent-05,4.3,5
+T-100615,2026-07-07,Billing,Email,Customer-122,agent-06,4.2,4
+T-100620,2026-07-07,Login,Email,Customer-023,agent-06,0.8,5
+T-100636,2026-07-07,Bug report,Email,Customer-047,agent-08,148.2,
+T-100655,2026-07-07,Bug report,Email,Customer-115,agent-03,20.0,4
+T-100565,2026-07-08,Bug report,Email,Customer-019,agent-01,76.0,
+T-100611,2026-07-08,Bug report,Chat,Customer-026,agent-05,7.4,4
+T-100649,2026-07-08,Bug report,Chat,Customer-120,agent-02,12.7,
+T-100682,2026-07-08,Billing,Chat,Customer-134,agent-03,7.8,5
+T-100693,2026-07-08,Performance,Email,Customer-127,agent-03,10.0,4
+T-100578,2026-07-09,Login,Email,Customer-114,agent-08,3.3,
+T-100626,2026-07-09,Billing,Phone,Customer-029,agent-01,7.4,4
+T-100627,2026-07-09,Bug report,Email,Customer-040,agent-02,36.7,3
+T-100631,2026-07-09,Bug report,Chat,Customer-013,agent-01,5.1,4
+T-100657,2026-07-09,Bug report,Email,Customer-090,agent-07,53.9,3
+T-100675,2026-07-09,Feature request,Email,Customer-001,agent-07,82.1,2
+T-100698,2026-07-09,Feature request,Chat,Customer-056,agent-03,20.8,
+T-100705,2026-07-09,Bug report,Email,Customer-116,agent-06,16.1,
+T-100553,2026-07-10,Performance,Email,Customer-114,agent-01,118.7,2
+T-100570,2026-07-10,Other,Phone,Customer-126,agent-02,9.2,
+T-100581,2026-07-10,Bug report,Phone,Customer-016,agent-07,13.5,3
+T-100591,2026-07-10,Billing,Chat,Customer-038,agent-04,26.7,3
+T-100602,2026-07-10,Bug report,Email,Customer-036,agent-07,39.0,3
+T-100610,2026-07-10,Bug report,Email,Customer-021,agent-02,66.8,2
+T-100618,2026-07-10,Performance,Chat,Customer-042,agent-08,21.1,4
+T-100653,2026-07-10,Billing,Email,Customer-015,agent-01,20.0,
+T-100662,2026-07-10,Login,Phone,Customer-023,agent-08,13.2,4
+T-100666,2026-07-10,Billing,Email,Customer-127,agent-08,8.0,5
+T-100541,2026-07-11,Performance,Email,Customer-094,agent-03,8.8,
+T-100604,2026-07-11,Performance,Phone,Customer-079,agent-04,5.0,4
+T-100606,2026-07-11,Login,Chat,Customer-084,agent-02,6.5,5
+T-100634,2026-07-11,Bug report,Chat,Customer-048,agent-04,21.3,4
+T-100656,2026-07-11,Performance,Phone,Customer-001,agent-07,33.8,3
+T-100545,2026-07-13,Billing,Email,Customer-109,agent-03,18.6,4
+T-100547,2026-07-13,Login,Phone,Customer-110,agent-01,3.7,
+T-100554,2026-07-13,Login,Email,Customer-090,agent-02,3.9,
+T-100556,2026-07-13,Performance,Chat,Customer-094,agent-06,19.8,
+T-100652,2026-07-13,Login,Chat,Customer-091,agent-06,12.4,4
+T-100654,2026-07-13,Feature request,Email,Customer-014,agent-06,285.8,
+T-100690,2026-07-13,Billing,Chat,Customer-112,agent-05,9.3,
+T-100692,2026-07-13,Bug report,Chat,Customer-122,agent-03,4.8,
+T-100551,2026-07-14,Login,Chat,Customer-027,agent-01,3.7,5
+T-100575,2026-07-14,Billing,Email,Customer-138,agent-04,8.7,
+T-100582,2026-07-14,Billing,Chat,Customer-047,agent-03,9.9,5
+T-100586,2026-07-14,Billing,Email,Customer-060,agent-08,6.3,4
+T-100671,2026-07-14,Bug report,Email,Customer-041,agent-05,19.6,
+T-100685,2026-07-14,Performance,Chat,Customer-015,agent-08,46.4,
+T-100687,2026-07-14,Bug report,Email,Customer-050,agent-05,16.8,4
+T-100691,2026-07-14,Billing,Chat,Customer-065,agent-04,18.7,4
+T-100564,2026-07-15,Login,Email,Customer-036,agent-06,0.7,
+T-100678,2026-07-15,Bug report,Chat,Customer-040,agent-01,10.3,4
+T-100712,2026-07-15,Performance,Email,Customer-075,agent-08,12.3,
+T-100612,2026-07-16,Login,Email,Customer-134,agent-08,3.8,5
+T-100621,2026-07-16,Bug report,Email,Customer-090,agent-05,40.3,2
+T-100644,2026-07-16,Bug report,Email,Customer-071,agent-07,23.8,
+T-100651,2026-07-16,Feature request,Email,Customer-138,agent-05,51.4,3
+T-100694,2026-07-16,Billing,Chat,Customer-042,agent-04,5.3,5
+T-100710,2026-07-16,Bug report,Email,Customer-067,agent-03,36.6,
+T-100715,2026-07-16,Feature request,Chat,Customer-106,agent-05,21.6,
+T-100548,2026-07-17,Billing,Chat,Customer-069,agent-05,27.8,5
+T-100584,2026-07-17,Bug report,Email,Customer-097,agent-04,19.5,
+T-100600,2026-07-17,Billing,Chat,Customer-118,agent-02,7.9,
+T-100632,2026-07-17,Login,Email,Customer-004,agent-02,3.1,
+T-100645,2026-07-17,Bug report,Email,Customer-101,agent-06,65.3,3
+T-100659,2026-07-17,Billing,Email,Customer-113,agent-05,10.8,4
+T-100689,2026-07-17,Performance,Chat,Customer-021,agent-06,65.8,
+T-100707,2026-07-17,Login,Chat,Customer-055,agent-06,4.2,4
+T-100589,2026-07-18,Feature request,Email,Customer-021,agent-02,93.7,2
+T-100594,2026-07-18,Feature request,Email,Customer-001,agent-03,89.8,1
+T-100673,2026-07-18,Feature request,Email,Customer-044,agent-03,39.6,
+T-100702,2026-07-18,Login,Phone,Customer-058,agent-02,4.8,4
+T-100713,2026-07-18,Billing,Email,Customer-076,agent-04,6.8,5
+T-100580,2026-07-20,Other,Email,Customer-132,agent-07,1.3,4
+T-100587,2026-07-20,Bug report,Chat,Customer-076,agent-03,65.1,2
+T-100708,2026-07-20,Login,Email,Customer-029,agent-07,1.7,5
+T-100596,2026-07-21,Performance,Email,Customer-120,agent-06,12.0,5
+T-100633,2026-07-21,Performance,Chat,Customer-115,agent-05,10.1,
+T-100641,2026-07-21,Billing,Email,Customer-048,agent-04,18.1,
+T-100643,2026-07-21,Login,Chat,Customer-020,agent-06,2.3,4
+T-100665,2026-07-21,Login,Email,Customer-115,agent-08,7.5,4
+T-100680,2026-07-21,Billing,Email,Customer-088,agent-06,2.6,
+T-100714,2026-07-21,Bug report,Email,Customer-050,agent-05,62.7,
+T-100546,2026-07-22,Performance,Email,Customer-098,agent-01,31.8,3
+T-100585,2026-07-22,Login,Phone,Customer-131,agent-05,5.3,5
+T-100599,2026-07-22,Bug report,Chat,Customer-021,agent-02,36.1,3
+T-100609,2026-07-22,Feature request,Chat,Customer-030,agent-02,29.2,
+T-100635,2026-07-22,Bug report,Email,Customer-044,agent-04,n/a,2
+T-100642,2026-07-22,Billing,Chat,Customer-136,agent-06,20.0,3
+T-100660,2026-07-22,Billing,Chat,Customer-042,agent-01,21.7,4
+T-100664,2026-07-22,Billing,Chat,Customer-116,agent-07,12.8,
+T-100676,2026-07-22,Performance,Chat,Customer-084,agent-02,6.7,4
+T-100706,2026-07-22,Login,Email,Customer-073,agent-06,0.8,4
+T-100540,2026-07-23,Performance,Email,Customer-006,agent-08,8.7,
+T-100557,2026-07-23,Bug report,Email,Customer-059,agent-04,35.6,2
+T-100559,2026-07-23,Performance,Chat,Customer-009,agent-01,19.3,3
+T-100571,2026-07-23,Performance,Chat,Customer-050,agent-01,17.4,
+T-100579,2026-07-23,Billing,Chat,Customer-065,agent-06,13.9,4
+T-100628,2026-07-23,Billing,Email,Customer-100,agent-05,5.2,
+T-100637,2026-07-23,Performance,Chat,Customer-123,agent-03,8.6,
+T-100663,2026-07-23,Feature request,Chat,Customer-139,agent-06,15.5,
+T-100677,2026-07-23,Billing,Email,Customer-062,agent-08,4.7,4
+T-100699,2026-07-23,Bug report,Email,Customer-059,agent-08,10.2,3
+T-100576,2026-07-24,Login,Email,Customer-101,agent-03,0.9,5
+T-100588,2026-07-24,Feature request,Email,Customer-021,agent-01,n/a,3
+T-100679,2026-07-24,Billing,Phone,Customer-035,agent-05,2.9,3
+T-100697,2026-07-24,Bug report,Email,Customer-014,agent-04,7.7,5
+T-100622,2026-07-25,Billing,Email,Customer-120,agent-05,9.7,
+T-100623,2026-07-25,Login,Chat,Customer-138,agent-06,2.0,4
+T-100669,2026-07-25,Bug report,Email,Customer-073,agent-04,27.3,3
+T-100674,2026-07-25,Billing,Email,Customer-041,agent-04,46.8,4
+T-100549,2026-07-27,Feature request,Email,Customer-096,agent-01,33.8,3
+T-100592,2026-07-27,Performance,Chat,Customer-020,agent-03,52.9,3
+T-100603,2026-07-27,Login,Email,Customer-009,agent-07,3.1,
+T-100624,2026-07-27,Other,Email,Customer-137,agent-02,3.7,
+T-100639,2026-07-27,Login,Email,Customer-039,agent-04,2.2,4
+T-100683,2026-07-27,Login,Email,Customer-009,agent-08,3.3,5
+T-100597,2026-07-28,Performance,Email,Customer-138,agent-07,31.3,
+T-100647,2026-07-28,Login,Email,Customer-009,agent-08,1.0,4
+T-100658,2026-07-28,Billing,Phone,Customer-132,agent-01,4.2,3
+T-100550,2026-07-29,Feature request,Chat,Customer-040,agent-07,21.5,4
+T-100566,2026-07-29,Billing,Email,Customer-021,agent-05,15.3,4
+T-100573,2026-07-29,Billing,Chat,Customer-136,agent-02,4.9,
+T-100619,2026-07-29,Billing,Phone,Customer-084,agent-02,6.9,3
+T-100625,2026-07-29,Performance,Chat,Customer-029,agent-06,78.1,1
+T-100562,2026-07-30,Login,Email,Customer-134,agent-06,0.9,4
+T-100563,2026-07-30,Login,Chat,Customer-085,agent-02,3.2,5
+T-100568,2026-07-30,Billing,Chat,Customer-131,agent-08,9.3,
+T-100569,2026-07-30,Other,Chat,Customer-091,agent-07,9.4,4
+T-100572,2026-07-30,Bug report,Email,Customer-117,agent-02,27.0,4
+T-100583,2026-07-30,Other,Email,Customer-058,agent-07,11.2,
+T-100670,2026-07-30,Feature request,Chat,Customer-042,agent-02,21.6,5
+T-100555,2026-07-31,Billing,Email,Customer-102,agent-02,22.4,4
+T-100595,2026-07-31,Performance,Phone,Customer-069,agent-04,11.3,
+T-100607,2026-07-31,Login,Email,Customer-140,agent-07,2.0,4
+T-100613,2026-07-31,Other,Chat,Customer-033,agent-05,7.7,
+T-100648,2026-07-31,Bug report,Chat,Customer-036,agent-08,43.6,
+T-100667,2026-07-31,Feature request,Chat,Customer-095,agent-03,127.2,
+T-100668,2026-07-31,Other,Email,Customer-097,agent-07,5.5,
+T-100681,2026-07-31,Bug report,Email,Customer-074,agent-06,51.4,3
+T-100688,2026-07-31,Feature request,Chat,Customer-042,agent-07,47.0,3
+T-100774,2026-08-01,Other,Email,Customer-122,agent-03,11.9,3
+T-100790,2026-08-01,Billing,Chat,Customer-074,agent-08,26.8,3
+T-100819,2026-08-01,Billing,Chat,Customer-100,agent-08,9.1,
+T-100851,2026-08-01,Billing,Email,Customer-136,agent-08,55.2,
+T-100866,2026-08-01,Billing,Phone,Customer-095,agent-03,5.2,4
+T-100894,2026-08-01,Billing,Chat,Customer-067,agent-08,8.9,4
+T-100895,2026-08-01,Billing,Chat,Customer-018,agent-01,23.3,4
+T-100896,2026-08-01,Bug report,Email,Customer-016,agent-08,267.4,2
+T-100896,2026-08-01,Bug report,Email,Customer-016,agent-08,267.4,2
+T-100914,2026-08-01,Performance,Chat,Customer-060,agent-05,28.4,1
+T-100784,2026-08-03,Login,Email,Customer-020,agent-01,1.4,
+T-100785,2026-08-03,Billing,Phone,Customer-050,agent-04,8.3,4
+T-100835,2026-08-03,Other,Email,Customer-035,agent-04,12.9,3
+T-100838,2026-08-03,Login,Chat,Customer-010,agent-02,2.1,
+T-100860,2026-08-03,Bug report,Email,Customer-028,agent-06,113.4,1
+T-100900,2026-08-03,Billing,Chat,Customer-114,agent-02,11.2,
+T-100906,2026-08-03,Login,Phone,Customer-090,agent-03,1.0,5
+T-100917,2026-08-03,Bug report,Email,Customer-037,agent-04,27.0,4
+T-100791,2026-08-04,Billing,Email,Customer-057,agent-01,6.3,4
+T-100823,2026-08-04,Performance,Email,Customer-079,agent-04,21.7,2
+T-100857,2026-08-04,Feature request,Chat,Customer-051,agent-04,35.1,
+T-100865,2026-08-04,Bug report,Email,Customer-037,agent-03,8.1,
+T-100912,2026-08-04,Feature request,Phone,Customer-095,agent-06,45.0,2
+T-100919,2026-08-04,Feature request,Phone,Customer-129,agent-03,10.8,4
+T-100768,2026-08-05,Login,Email,Customer-080,agent-04,2.8,4
+T-100827,2026-08-05,Performance,Email,Customer-062,agent-07,11.3,4
+T-100839,2026-08-05,Billing,Email,Customer-032,agent-06,6.6,5
+T-100841,2026-08-05,Login,Phone,Customer-040,agent-08,5.9,5
+T-100852,2026-08-05,Login,Chat,Customer-096,agent-03,1.8,4
+T-100871,2026-08-05,Other,Phone,Customer-033,agent-02,5.6,5
+T-100745,2026-08-06,Feature request,Email,Customer-007,agent-06,80.8,1
+T-100746,2026-08-06,Login,Chat,Customer-120,agent-02,3.4,5
+T-100780,2026-08-06,Performance,Email,Customer-080,agent-03,25.7,4
+T-100794,2026-08-06,Bug report,Phone,Customer-048,agent-03,28.7,3
+T-100802,2026-08-06,Performance,Chat,Customer-011,agent-07,32.1,2
+T-100837,2026-08-06,Bug report,Email,Customer-078,agent-01,5.3,
+T-100875,2026-08-06,Login,Email,Customer-133,agent-03,3.0,4
+T-100876,2026-08-06,Billing,Chat,Customer-122,agent-08,14.2,
+T-100884,2026-08-06,Billing,Email,Customer-131,agent-03,46.7,3
+T-100898,2026-08-06,Bug report,Chat,Customer-005,agent-05,11.6,
+T-100915,2026-08-06,Billing,Email,Customer-002,agent-06,7.7,4
+T-100769,2026-08-07,Performance,Phone,Customer-138,agent-01,14.4,5
+T-100826,2026-08-07,Feature request,Email,Customer-118,agent-05,32.8,5
+T-100832,2026-08-07,Performance,Email,Customer-082,agent-08,46.4,1
+T-100833,2026-08-07,Performance,Chat,Customer-062,agent-01,7.7,4
+T-100877,2026-08-07,Billing,Email,Customer-078,agent-08,49.5,2
+T-100888,2026-08-07,Login,Email,Customer-118,agent-07,2.7,
+T-100890,2026-08-07,Performance,Email,Customer-071,agent-02,89.9,1
+T-100918,2026-08-07,Login,Chat,Customer-064,agent-07,3.3,
+T-100737,2026-08-08,Billing,Chat,Customer-105,agent-05,4.8,
+T-100760,2026-08-08,Billing,Chat,Customer-080,agent-04,8.7,4
+T-100795,2026-08-08,Feature request,Chat,Customer-122,agent-02,504.7,
+T-100808,2026-08-08,Other,Email,Customer-043,agent-07,3.9,5
+T-100829,2026-08-08,Billing,Email,Customer-081,agent-06,12.4,5
+T-100831,2026-08-08,Billing,Email,Customer-058,agent-07,26.2,3
+T-100853,2026-08-08,Billing,Chat,Customer-090,agent-06,23.2,
+T-100743,2026-08-10,Other,Email,Customer-008,agent-05,2.4,5
+T-100756,2026-08-10,Performance,Email,Customer-071,agent-07,11.6,3
+T-100783,2026-08-10,Login,Email,Customer-004,agent-08,5.1,4
+T-100793,2026-08-10,Billing,Chat,Customer-015,agent-03,3.5,
+T-100804,2026-08-10,Billing,Phone,Customer-061,agent-05,7.5,
+T-100887,2026-08-10,Other,Email,Customer-119,agent-06,1.6,
+T-100889,2026-08-10,Bug report,Email,Customer-013,agent-05,20.0,3
+T-100903,2026-08-10,Billing,Email,Customer-129,agent-05,5.4,2
+T-100916,2026-08-10,Login,Chat,Customer-031,agent-01,2.3,
+T-100739,2026-08-11,Billing,Email,Customer-055,agent-03,14.3,4
+T-100741,2026-08-11,Other,Chat,Customer-019,agent-04,25.5,
+T-100754,2026-08-11,Login,Chat,Customer-005,agent-05,7.4,
+T-100787,2026-08-11,Feature request,Chat,Customer-039,agent-01,123.6,2
+T-100868,2026-08-11,Other,Email,Customer-011,agent-05,43.9,
+T-100891,2026-08-11,Billing,Email,Customer-008,agent-07,11.6,4
+T-100901,2026-08-11,Other,Email,Customer-028,agent-04,4.4,4
+T-100905,2026-08-11,Performance,Phone,Customer-013,agent-01,25.8,
+T-100910,2026-08-11,Login,Phone,Customer-062,agent-02,2.0,
+T-100734,2026-08-12,Bug report,Email,Customer-037,agent-04,79.0,2
+T-100735,2026-08-12,Login,Phone,Customer-007,agent-01,1.5,
+T-100736,2026-08-12,Feature request,Email,Customer-074,agent-04,52.2,2
+T-100747,2026-08-12,Performance,Email,Customer-125,agent-05,42.9,
+T-100762,2026-08-12,Performance,Chat,Customer-013,agent-03,17.2,
+T-100766,2026-08-12,Feature request,Email,Customer-101,agent-02,54.8,2
+T-100777,2026-08-12,Bug report,Email,Customer-017,agent-07,16.7,4
+T-100798,2026-08-12,Bug report,Chat,Customer-137,agent-02,20.1,
+T-100812,2026-08-12,Billing,Chat,Customer-130,agent-08,20.3,3
+T-100844,2026-08-12,Billing,Email,Customer-038,agent-04,10.4,
+T-100869,2026-08-12,Feature request,Chat,Customer-050,agent-05,29.1,
+T-100878,2026-08-12,Performance,Chat,Customer-066,agent-08,118.7,
+T-100911,2026-08-12,Performance,Email,Customer-054,agent-03,4.0,5
+T-100775,2026-08-13,Login,Email,Customer-026,agent-01,2.3,4
+T-100789,2026-08-13,Bug report,Email,Customer-073,agent-03,67.6,3
+T-100806,2026-08-13,Billing,Email,Customer-092,agent-08,11.8,
+T-100843,2026-08-13,Feature request,Email,Customer-025,agent-08,77.2,2
+T-100855,2026-08-13,Billing,Email,Customer-079,agent-06,5.4,
+T-100881,2026-08-13,Feature request,Email,Customer-047,agent-05,30.2,
+T-100893,2026-08-13,Feature request,Email,Customer-032,agent-01,44.6,
+T-100913,2026-08-13,Billing,Email,Customer-022,agent-04,14.0,
+T-100732,2026-08-14,Other,Email,Customer-123,agent-08,4.7,
+T-100761,2026-08-14,Login,Chat,Customer-133,agent-03,1.4,5
+T-100767,2026-08-14,Billing,Phone,Customer-085,agent-07,28.6,3
+T-100803,2026-08-14,Billing,Email,Customer-056,agent-03,11.2,
+T-100807,2026-08-14,Billing,Email,Customer-035,agent-02,10.3,
+T-100840,2026-08-14,Bug report,Email,Customer-012,agent-08,10.1,4
+T-100755,2026-08-15,Billing,Chat,Customer-092,agent-02,3.9,
+T-100778,2026-08-15,Bug report,Email,Customer-085,agent-01,37.0,4
+T-100872,2026-08-15,Performance,Chat,Customer-056,agent-03,64.3,
+T-100723,2026-08-17,Login,Email,Customer-044,agent-03,3.5,5
+T-100733,2026-08-17,Billing,Email,Customer-104,agent-04,18.6,
+T-100742,2026-08-17,Billing,Chat,Customer-086,agent-07,67.3,
+T-100825,2026-08-17,Bug report,Chat,Customer-060,agent-08,91.3,2
+T-100854,2026-08-17,Bug report,Email,Customer-025,agent-08,65.5,2
+T-100862,2026-08-17,Bug report,Chat,Customer-107,agent-06,28.5,
+T-100886,2026-08-17,Billing,Email,Customer-138,agent-03,20.9,
+T-100892,2026-08-17,Other,Email,Customer-076,agent-06,7.0,5
+T-100728,2026-08-18,Other,Chat,Customer-036,agent-05,18.7,
+T-100748,2026-08-18,Other,Chat,Customer-071,agent-03,6.8,
+T-100782,2026-08-18,Billing,Chat,Customer-040,agent-04,5.5,
+T-100818,2026-08-18,Performance,Email,Customer-069,agent-08,177.9,1
+T-100830,2026-08-18,Billing,Chat,Customer-001,agent-08,21.2,4
+T-100859,2026-08-18,Feature request,Email,Customer-084,agent-06,40.3,
+T-100880,2026-08-18,Billing,Email,Customer-038,agent-01,9.4,
+T-100719,2026-08-19,Bug report,Email,Customer-036,agent-07,16.4,4
+T-100721,2026-08-19,Billing,Email,Customer-024,agent-05,11.5,
+T-100788,2026-08-19,Billing,Email,Customer-139,agent-07,5.0,
+T-100861,2026-08-19,Login,Email,Customer-055,agent-08,3.5,
+T-100908,2026-08-19,Billing,Email,Customer-117,agent-05,20.1,4
+T-100718,2026-08-20,Login,Chat,Customer-042,agent-05,3.4,5
+T-100763,2026-08-20,Login,Email,Customer-032,agent-02,3.9,5
+T-100765,2026-08-20,Feature request,Email,Customer-015,agent-02,43.2,2
+T-100824,2026-08-20,Feature request,Phone,Customer-110,agent-07,41.1,3
+T-100847,2026-08-20,Feature request,Chat,Customer-004,agent-04,24.0,4
+T-100899,2026-08-20,Performance,Chat,Customer-024,agent-03,2.7,
+T-100722,2026-08-21,Login,Email,Customer-044,agent-08,4.7,4
+T-100727,2026-08-21,Billing,Email,Customer-092,agent-08,6.6,5
+T-100738,2026-08-21,Billing,Chat,Customer-060,agent-02,64.9,
+T-100779,2026-08-21,Bug report,Email,Customer-110,agent-01,12.9,
+T-100810,2026-08-21,Bug report,Email,Customer-140,agent-03,69.0,3
+T-100811,2026-08-21,Bug report,Chat,Customer-129,agent-04,120.5,
+T-100848,2026-08-21,Billing,Email,Customer-086,agent-06,21.3,
+T-100867,2026-08-21,Other,Email,Customer-002,agent-03,25.9,3
+T-100870,2026-08-21,Login,Chat,Customer-006,agent-06,1.7,
+T-100879,2026-08-21,Login,Email,Customer-094,agent-03,1.5,4
+T-100904,2026-08-21,Login,Email,Customer-055,agent-07,5.0,4
+T-100716,2026-08-22,Billing,Phone,Customer-031,agent-06,4.3,5
+T-100717,2026-08-22,Login,Email,Customer-138,agent-02,8.2,5
+T-100720,2026-08-22,Login,Email,Customer-131,agent-04,6.7,
+T-100753,2026-08-22,Feature request,Chat,Customer-071,agent-06,165.2,2
+T-100796,2026-08-22,Billing,Chat,Customer-132,agent-08,10.6,4
+T-100801,2026-08-22,Billing,Chat,Customer-034,agent-05,11.8,3
+T-100813,2026-08-22,Bug report,Email,Customer-115,agent-06,19.5,3
+T-100846,2026-08-22,Performance,Email,Customer-035,agent-04,6.6,5
+T-100850,2026-08-22,Login,Phone,Customer-119,agent-01,5.3,
+T-100883,2026-08-22,Login,Email,Customer-138,agent-04,6.8,
+T-100897,2026-08-22,Other,Chat,Customer-062,agent-01,3.8,5
+T-100909,2026-08-22,Feature request,Chat,Customer-035,agent-07,98.8,1
+T-100740,2026-08-24,Feature request,Email,Customer-039,agent-02,18.3,4
+T-100752,2026-08-24,Login,Chat,Customer-016,agent-01,1.3,5
+T-100776,2026-08-24,Feature request,Chat,Customer-078,agent-01,82.1,2
+T-100781,2026-08-24,Feature request,Chat,Customer-038,agent-04,596.2,1
+T-100786,2026-08-24,Other,Email,Customer-118,agent-08,6.0,4
+T-100724,2026-08-25,Billing,Chat,Customer-082,agent-04,4.7,5
+T-100726,2026-08-25,Login,Email,Customer-117,agent-08,2.5,4
+T-100751,2026-08-25,Performance,Email,Customer-010,agent-04,46.2,
+T-100770,2026-08-25,Feature request,Chat,Customer-137,agent-06,57.2,
+T-100771,2026-08-25,Bug report,Email,Customer-062,agent-08,34.2,
+T-100773,2026-08-25,Login,Chat,Customer-124,agent-05,2.5,5
+T-100792,2026-08-25,Bug report,Email,Customer-087,agent-01,72.0,2
+T-100809,2026-08-25,Billing,Chat,Customer-020,agent-04,16.5,3
+T-100828,2026-08-25,Performance,Email,Customer-044,agent-04,18.7,
+T-100834,2026-08-25,Billing,Phone,Customer-011,agent-01,7.4,
+T-100842,2026-08-25,Login,Chat,Customer-011,agent-06,1.8,5
+T-100856,2026-08-25,Bug report,Email,Customer-103,agent-04,53.1,
+T-100874,2026-08-25,Billing,Chat,Customer-074,agent-04,6.3,
+T-100757,2026-08-26,Bug report,Email,Customer-043,agent-03,111.0,1
+T-100805,2026-08-26,Performance,Email,Customer-057,agent-02,46.7,
+T-100814,2026-08-26,Other,Email,Customer-058,agent-08,19.0,3
+T-100817,2026-08-26,Billing,Chat,Customer-091,agent-04,3.7,5
+T-100820,2026-08-26,Billing,Email,Customer-023,agent-02,5.1,
+T-100845,2026-08-26,Performance,Email,Customer-060,agent-01,22.4,4
+T-100744,2026-08-27,Performance,Chat,Customer-020,agent-02,8.7,
+T-100758,2026-08-27,Other,Email,Customer-110,agent-01,14.5,3
+T-100772,2026-08-27,Performance,Chat,Customer-105,agent-05,20.7,4
+T-100797,2026-08-27,Billing,Phone,Customer-107,agent-01,9.1,5
+T-100815,2026-08-27,Other,Chat,Customer-015,agent-01,5.4,
+T-100858,2026-08-27,Billing,Phone,Customer-053,agent-02,25.1,
+T-100920,2026-08-27,Performance,Email,Customer-077,agent-07,9.0,
+T-100725,2026-08-28,Feature request,Chat,Customer-093,agent-07,56.2,
+T-100759,2026-08-28,Login,Email,Customer-037,agent-08,20.0,5
+T-100764,2026-08-28,Billing,Phone,Customer-100,agent-05,8.3,5
+T-100799,2026-08-28,Billing,Email,Customer-029,agent-03,28.5,
+T-100821,2026-08-28,Feature request,Email,Customer-121,agent-07,29.5,4
+T-100822,2026-08-28,Feature request,Chat,Customer-013,agent-05,30.6,
+T-100836,2026-08-28,Billing,Email,Customer-087,agent-08,18.2,4
+T-100849,2026-08-28,Login,Email,Customer-005,agent-06,3.0,4
+T-100863,2026-08-28,Bug report,Chat,Customer-015,agent-04,41.9,
+T-100882,2026-08-28,Login,Email,Customer-036,agent-03,1.2,
+T-100907,2026-08-28,Bug report,Phone,Customer-067,agent-01,20.5,
+T-100730,2026-08-29,Performance,Email,Customer-081,agent-07,31.3,
+T-100731,2026-08-29,Billing,Email,Customer-035,agent-01,2.8,5
+T-100749,2026-08-29,Performance,Email,Customer-006,agent-05,38.5,3
+T-100750,2026-08-29,Performance,Email,Customer-096,agent-05,15.4,4
+T-100800,2026-08-29,Feature request,Email,Customer-037,agent-04,59.8,2
+T-100816,2026-08-29,Billing,Email,Customer-100,agent-07,14.0,3
+T-100885,2026-08-29,Bug report,Chat,Customer-078,agent-03,23.6,
+T-100902,2026-08-29,Bug report,Chat,Customer-138,agent-03,126.3,2
+T-100864,2026-08-31,Bug report,Email,Customer-010,agent-05,24.3,
+T-100873,2026-08-31,Login,Email,Customer-052,agent-06,1.9,
+T-100964,2026-09-01,Login,Email,Customer-027,agent-06,9.9,
+T-100971,2026-09-01,Billing,Chat,Customer-131,agent-08,3.3,4
+T-100974,2026-09-01,Performance,Email,Customer-023,agent-06,23.3,
+T-101061,2026-09-01,Billing,Email,Customer-108,agent-02,5.6,4
+T-101084,2026-09-01,Billing,Email,Customer-069,agent-05,2.9,5
+T-101121,2026-09-01,Bug report,Email,Customer-128,agent-03,52.1,3
+T-100950,2026-09-02,Performance,Email,Customer-006,agent-02,64.0,2
+T-100953,2026-09-02,Login,Phone,Customer-020,agent-08,2.5,5
+T-101041,2026-09-02,Billing,Chat,Customer-108,agent-04,36.6,3
+T-101048,2026-09-02,Bug report,Email,Customer-027,agent-08,35.2,
+T-101082,2026-09-02,Performance,Chat,Customer-060,agent-08,9.9,4
+T-101082,2026-09-02,Performance,Chat,Customer-060,agent-08,9.9,4
+T-101103,2026-09-02,Billing,Email,Customer-052,agent-06,10.9,
+T-100956,2026-09-03,Login,Phone,Customer-132,agent-04,10.0,4
+T-100966,2026-09-03,Billing,Phone,Customer-006,agent-05,5.6,
+T-100979,2026-09-03,Feature request,Chat,Customer-088,agent-07,131.3,
+T-101010,2026-09-03,Billing,Email,Customer-072,agent-04,12.6,4
+T-101075,2026-09-03,Performance,Chat,Customer-105,agent-02,16.5,3
+T-101080,2026-09-03,Bug report,Email,Customer-081,agent-05,27.7,4
+T-101091,2026-09-03,Login,Email,Customer-092,agent-01,2.5,5
+T-101101,2026-09-03,Bug report,Email,Customer-105,agent-03,20.7,
+T-101104,2026-09-03,Login,Chat,Customer-130,agent-05,1.7,
+T-100963,2026-09-04,Billing,Chat,Customer-051,agent-06,13.9,4
+T-100985,2026-09-04,Feature request,Email,Customer-073,agent-03,46.7,
+T-101053,2026-09-04,Other,Email,Customer-122,agent-07,7.5,4
+T-101090,2026-09-04,Performance,Chat,Customer-101,agent-08,22.1,4
+T-101125,2026-09-04,Performance,Chat,Customer-080,agent-01,33.7,4
+T-101137,2026-09-04,Billing,Email,Customer-022,agent-01,4.3,4
+T-100941,2026-09-05,Bug report,Email,Customer-002,agent-02,57.1,1
+T-100973,2026-09-05,Bug report,Chat,Customer-107,agent-05,10.1,4
+T-101018,2026-09-05,Billing,Chat,Customer-019,agent-02,4.8,
+T-101019,2026-09-05,Other,Phone,Customer-106,agent-03,17.9,
+T-101102,2026-09-05,Billing,Chat,Customer-016,agent-08,8.4,
+T-101128,2026-09-05,Bug report,Email,Customer-087,agent-03,40.9,2
+T-100947,2026-09-07,Performance,Phone,Customer-077,agent-01,1.9,
+T-100960,2026-09-07,Feature request,Chat,Customer-030,agent-03,61.8,2
+T-101013,2026-09-07,Other,Email,Customer-117,agent-07,5.1,5
+T-101015,2026-09-07,Login,Email,Customer-105,agent-07,4.6,5
+T-101073,2026-09-07,Billing,Chat,Customer-116,agent-01,34.3,3
+T-101083,2026-09-07,Billing,Chat,Customer-032,agent-08,4.2,5
+T-101106,2026-09-07,Performance,Email,Customer-100,agent-08,52.0,2
+T-100938,2026-09-08,Bug report,Email,Customer-033,agent-03,20.5,3
+T-100951,2026-09-08,Bug report,Email,Customer-100,agent-08,20.8,
+T-100952,2026-09-08,Performance,Chat,Customer-109,agent-02,29.2,
+T-100994,2026-09-08,Bug report,Email,Customer-115,agent-04,30.7,3
+T-100995,2026-09-08,Login,Phone,Customer-009,agent-06,1.8,5
+T-101012,2026-09-08,Login,Email,Customer-102,agent-03,3.8,
+T-101042,2026-09-08,Billing,Email,Customer-065,agent-02,6.2,3
+T-101095,2026-09-08,Billing,Email,Customer-071,agent-07,6.5,
+T-101139,2026-09-08,Billing,Email,Customer-011,agent-08,20.9,4
+T-100924,2026-09-09,Bug report,Email,Customer-128,agent-01,34.8,2
+T-100927,2026-09-09,Billing,Chat,Customer-087,agent-07,10.9,5
+T-100959,2026-09-09,Billing,Email,Customer-004,agent-05,n/a,3
+T-100970,2026-09-09,Performance,Phone,Customer-022,agent-04,11.3,5
+T-100972,2026-09-09,Login,Phone,Customer-138,agent-03,6.1,5
+T-100975,2026-09-09,Login,Email,Customer-051,agent-08,7.3,
+T-101005,2026-09-09,Feature request,Chat,Customer-080,agent-08,24.7,4
+T-101016,2026-09-09,Billing,Email,Customer-030,agent-08,7.1,
+T-101024,2026-09-09,Login,Chat,Customer-086,agent-06,1.6,
+T-101074,2026-09-09,Billing,Email,Customer-054,agent-04,10.2,3
+T-101111,2026-09-09,Performance,Email,Customer-094,agent-01,4.4,
+T-101119,2026-09-09,Bug report,Phone,Customer-058,agent-04,13.7,4
+T-101122,2026-09-09,Login,Chat,Customer-075,agent-01,3.7,
+T-101141,2026-09-09,Billing,Email,Customer-055,agent-06,1.8,4
+T-101142,2026-09-09,Billing,Email,Customer-118,agent-01,6.1,
+T-101144,2026-09-09,Login,Email,Customer-136,agent-06,1.3,4
+T-100986,2026-09-10,Other,Email,Customer-121,agent-02,5.6,4
+T-101001,2026-09-10,Feature request,Email,Customer-085,agent-04,117.8,
+T-101003,2026-09-10,Performance,Phone,Customer-108,agent-07,30.6,
+T-101004,2026-09-10,Other,Chat,Customer-076,agent-06,2.0,5
+T-101007,2026-09-10,Performance,Chat,Customer-023,agent-07,65.7,2
+T-101008,2026-09-10,Bug report,Email,Customer-040,agent-08,32.7,
+T-101036,2026-09-10,Billing,Chat,Customer-037,agent-03,16.8,4
+T-101100,2026-09-10,Login,Email,Customer-016,agent-02,1.5,
+T-101116,2026-09-10,Billing,Chat,Customer-015,agent-05,22.9,4
+T-100928,2026-09-11,Bug report,Email,Customer-022,agent-06,20.9,
+T-100948,2026-09-11,Billing,Email,Customer-113,agent-02,9.5,5
+T-100983,2026-09-11,Billing,Email,Customer-140,agent-03,6.5,4
+T-100990,2026-09-11,Feature request,Chat,Customer-078,agent-02,121.7,
+T-101002,2026-09-11,Login,Email,Customer-059,agent-05,6.8,5
+T-101054,2026-09-11,Bug report,Email,Customer-098,agent-06,37.7,3
+T-101105,2026-09-11,Login,Chat,Customer-130,agent-07,4.6,5
+T-101143,2026-09-11,Bug report,Chat,Customer-086,agent-06,84.3,
+T-100978,2026-09-12,Feature request,Chat,Customer-033,agent-04,25.4,5
+T-100987,2026-09-12,Feature request,Chat,Customer-111,agent-07,21.5,4
+T-100991,2026-09-12,Performance,Email,Customer-098,agent-03,49.2,
+T-101026,2026-09-12,Billing,Email,Customer-057,agent-06,18.5,
+T-101052,2026-09-12,Performance,Email,Customer-101,agent-08,12.4,
+T-101063,2026-09-12,Feature request,Phone,Customer-023,agent-06,31.7,
+T-101088,2026-09-12,Bug report,Chat,Customer-005,agent-01,81.4,2
+T-101092,2026-09-12,Bug report,Email,Customer-095,agent-04,43.0,4
+T-101129,2026-09-12,Billing,Email,Customer-083,agent-01,6.6,
+T-100933,2026-09-14,Performance,Phone,Customer-010,agent-06,12.3,3
+T-100942,2026-09-14,Login,Email,Customer-086,agent-07,0.3,
+T-100954,2026-09-14,Billing,Chat,Customer-110,agent-04,34.0,3
+T-100967,2026-09-14,Billing,Chat,Customer-025,agent-07,18.6,4
+T-100982,2026-09-14,Billing,Chat,Customer-004,agent-04,25.6,
+T-100989,2026-09-14,Billing,Chat,Customer-043,agent-01,9.4,5
+T-101025,2026-09-14,Billing,Phone,Customer-103,agent-05,9.7,4
+T-101028,2026-09-14,Billing,Phone,Customer-014,agent-07,6.2,5
+T-101072,2026-09-14,Billing,Chat,Customer-140,agent-08,32.4,4
+T-101117,2026-09-14,Bug report,Chat,Customer-122,agent-02,11.5,5
+T-100936,2026-09-15,Billing,Email,Customer-047,agent-05,9.7,5
+T-100955,2026-09-15,Bug report,Email,Customer-110,agent-03,3.5,5
+T-100969,2026-09-15,Performance,Chat,Customer-058,agent-01,6.2,4
+T-100984,2026-09-15,Billing,Email,Customer-103,agent-04,4.5,5
+T-100992,2026-09-15,Bug report,Email,Customer-112,agent-06,142.2,1
+T-101009,2026-09-15,Login,Email,Customer-102,agent-08,7.1,4
+T-101021,2026-09-15,Billing,Phone,Customer-005,agent-02,10.5,4
+T-101027,2026-09-15,Billing,Chat,Customer-111,agent-08,8.1,5
+T-101029,2026-09-15,Other,Chat,Customer-130,agent-05,14.6,
+T-101032,2026-09-15,Login,Email,Customer-117,agent-06,5.7,5
+T-101055,2026-09-15,Billing,Email,Customer-126,agent-08,62.7,2
+T-101115,2026-09-15,Billing,Chat,Customer-127,agent-06,9.4,5
+T-100922,2026-09-16,Billing,Email,Customer-064,agent-07,11.3,4
+T-100949,2026-09-16,Billing,Chat,Customer-097,agent-01,4.3,4
+T-100958,2026-09-16,Billing,Chat,Customer-077,agent-02,132.9,2
+T-100962,2026-09-16,Bug report,Phone,Customer-079,agent-03,26.2,
+T-101000,2026-09-16,Bug report,Phone,Customer-014,agent-03,35.9,
+T-101040,2026-09-16,Performance,Chat,Customer-094,agent-03,11.2,3
+T-100921,2026-09-17,Billing,Phone,Customer-048,agent-06,4.4,4
+T-100935,2026-09-17,Other,Chat,Customer-021,agent-07,3.0,
+T-100944,2026-09-17,Billing,Email,Customer-092,agent-03,6.9,
+T-100957,2026-09-17,Feature request,Email,Customer-086,agent-03,35.8,
+T-100977,2026-09-17,Bug report,Email,Customer-079,agent-01,5.7,5
+T-101014,2026-09-17,Bug report,Email,Customer-055,agent-08,28.1,
+T-101023,2026-09-17,Bug report,Email,Customer-138,agent-01,86.5,1
+T-101037,2026-09-17,Bug report,Email,Customer-071,agent-03,21.5,
+T-101046,2026-09-17,Other,Email,Customer-019,agent-04,12.1,5
+T-101060,2026-09-17,Billing,Email,Customer-013,agent-07,19.6,
+T-101068,2026-09-17,Feature request,Email,Customer-103,agent-04,17.0,5
+T-101110,2026-09-17,Billing,Email,Customer-010,agent-01,11.7,
+T-100981,2026-09-18,Billing,Email,Customer-018,agent-01,2.0,5
+T-101062,2026-09-18,Login,Email,Customer-038,agent-04,3.8,5
+T-101066,2026-09-18,Bug report,Email,Customer-065,agent-07,10.7,4
+T-101071,2026-09-18,Bug report,Email,Customer-135,agent-08,15.4,5
+T-101096,2026-09-18,Performance,Email,Customer-138,agent-02,5.0,
+T-101120,2026-09-18,Billing,Email,Customer-091,agent-03,12.8,5
+T-101127,2026-09-18,Feature request,Phone,Customer-045,agent-05,49.3,
+T-101130,2026-09-18,Billing,Chat,Customer-079,agent-08,3.6,4
+T-100997,2026-09-19,Performance,Chat,Customer-096,agent-01,58.5,2
+T-100998,2026-09-19,Billing,Email,Customer-067,agent-05,12.1,
+T-101022,2026-09-19,Bug report,Email,Customer-129,agent-05,72.3,2
+T-101057,2026-09-19,Login,Email,Customer-095,agent-03,1.5,5
+T-101065,2026-09-19,Billing,Email,Customer-050,agent-01,5.9,5
+T-101078,2026-09-19,Billing,Chat,Customer-121,agent-03,71.8,1
+T-101094,2026-09-19,Billing,Email,Customer-060,agent-01,20.0,4
+T-101132,2026-09-19,Feature request,Phone,Customer-065,agent-02,94.5,2
+T-100925,2026-09-21,Performance,Chat,Customer-134,agent-05,4.9,4
+T-100934,2026-09-21,Billing,Email,Customer-135,agent-02,13.2,
+T-100940,2026-09-21,Billing,Chat,Customer-039,agent-06,4.1,
+T-100993,2026-09-21,Bug report,Phone,Customer-122,agent-02,24.6,
+T-101006,2026-09-21,Login,Email,Customer-050,agent-03,3.7,4
+T-101035,2026-09-21,Billing,Chat,Customer-022,agent-05,38.6,
+T-101045,2026-09-21,Login,Chat,Customer-003,agent-07,7.0,4
+T-101058,2026-09-21,Billing,Email,Customer-091,agent-05,38.7,3
+T-101069,2026-09-21,Bug report,Email,Customer-064,agent-01,51.3,3
+T-101076,2026-09-21,Login,Email,Customer-111,agent-06,1.5,
+T-101093,2026-09-21,Feature request,Chat,Customer-029,agent-01,15.5,5
+T-101123,2026-09-21,Performance,Chat,Customer-003,agent-01,93.4,2
+T-100943,2026-09-22,Performance,Phone,Customer-050,agent-08,43.9,3
+T-100946,2026-09-22,Other,Phone,Customer-053,agent-02,1.3,
+T-101020,2026-09-22,Bug report,Phone,Customer-003,agent-05,9.5,
+T-101050,2026-09-22,Billing,Chat,Customer-094,agent-06,4.0,5
+T-101107,2026-09-22,Login,Email,Customer-054,agent-02,17.3,5
+T-101131,2026-09-22,Feature request,Email,Customer-121,agent-01,7.7,
+T-100988,2026-09-23,Billing,Email,Customer-003,agent-04,4.1,5
+T-100999,2026-09-23,Bug report,Email,Customer-023,agent-08,26.8,
+T-101017,2026-09-23,Billing,Email,Customer-069,agent-02,4.7,
+T-101077,2026-09-23,Bug report,Email,Customer-098,agent-01,41.2,2
+T-101079,2026-09-23,Feature request,Phone,Customer-135,agent-07,39.2,4
+T-101098,2026-09-23,Login,Phone,Customer-018,agent-06,3.9,5
+T-101108,2026-09-23,Billing,Chat,Customer-075,agent-06,6.2,
+T-101109,2026-09-23,Login,Chat,Customer-032,agent-02,4.8,4
+T-101114,2026-09-23,Performance,Email,Customer-084,agent-02,17.7,
+T-101133,2026-09-23,Billing,Chat,Customer-017,agent-06,6.9,4
+T-100937,2026-09-24,Billing,Email,Customer-104,agent-04,2.6,
+T-100939,2026-09-24,Other,Email,Customer-116,agent-05,4.7,5
+T-100980,2026-09-24,Bug report,Phone,Customer-005,agent-08,83.0,2
+T-101059,2026-09-24,Billing,Email,Customer-075,agent-03,7.0,4
+T-101081,2026-09-24,Login,Email,Customer-027,agent-02,4.7,
+T-101099,2026-09-24,Billing,Chat,Customer-105,agent-05,6.8,5
+T-101112,2026-09-24,Billing,Email,Customer-135,agent-04,12.7,3
+T-101113,2026-09-24,Billing,Chat,Customer-071,agent-01,24.7,5
+T-101136,2026-09-24,Performance,Chat,Customer-137,agent-05,12.7,
+T-101140,2026-09-24,Login,Chat,Customer-051,agent-05,3.5,4
+T-100926,2026-09-25,Billing,Phone,Customer-006,agent-08,4.0,5
+T-100945,2026-09-25,Login,Email,Customer-132,agent-05,0.7,
+T-100961,2026-09-25,Other,Email,Customer-139,agent-08,15.1,
+T-100976,2026-09-25,Performance,Email,Customer-028,agent-05,27.5,
+T-100996,2026-09-25,Feature request,Chat,Customer-105,agent-01,151.4,1
+T-101030,2026-09-25,Feature request,Chat,Customer-076,agent-03,37.1,
+T-101031,2026-09-25,Login,Email,Customer-024,agent-08,1.1,5
+T-101089,2026-09-25,Bug report,Email,Customer-118,agent-04,57.4,
+T-101097,2026-09-25,Billing,Chat,Customer-126,agent-06,10.3,5
+T-101126,2026-09-25,Billing,Chat,Customer-087,agent-01,20.8,3
+T-100931,2026-09-26,Login,Email,Customer-137,agent-02,5.5,5
+T-100932,2026-09-26,Login,Email,Customer-084,agent-06,5.1,3
+T-101011,2026-09-26,Login,Email,Customer-093,agent-06,1.4,5
+T-101033,2026-09-26,Billing,Chat,Customer-112,agent-07,10.0,
+T-101044,2026-09-26,Billing,Email,Customer-005,agent-03,23.0,4
+T-101070,2026-09-26,Performance,Chat,Customer-109,agent-01,41.5,3
+T-101085,2026-09-26,Other,Chat,Customer-039,agent-07,11.2,
+T-101135,2026-09-26,Feature request,Email,Customer-016,agent-05,34.6,
+T-101138,2026-09-26,Billing,Email,Customer-117,agent-03,37.1,
+T-100930,2026-09-28,Billing,Email,Customer-001,agent-08,64.1,
+T-101051,2026-09-28,Bug report,Phone,Customer-002,agent-04,46.1,4
+T-101056,2026-09-28,Feature request,Email,Customer-003,agent-04,10.0,5
+T-100968,2026-09-29,Other,Phone,Customer-031,agent-07,3.1,5
+T-101034,2026-09-29,Billing,Email,Customer-139,agent-01,9.3,
+T-101038,2026-09-29,Bug report,Email,Customer-037,agent-03,59.9,
+T-101039,2026-09-29,Bug report,Email,Customer-128,agent-04,28.8,
+T-101043,2026-09-29,Billing,Chat,Customer-108,agent-02,3.8,5
+T-101047,2026-09-29,Bug report,Email,Customer-047,agent-01,43.2,3
+T-101049,2026-09-29,Other,Email,Customer-001,agent-05,6.3,5
+T-101064,2026-09-29,Other,Chat,Customer-139,agent-04,15.9,
+T-101124,2026-09-29,Bug report,Email,Customer-071,agent-01,50.9,
+T-101134,2026-09-29,Bug report,Phone,Customer-019,agent-05,8.1,3
+T-100923,2026-09-30,Other,Chat,Customer-116,agent-05,12.2,5
+T-100929,2026-09-30,Performance,Chat,Customer-088,agent-02,4.0,5
+T-100965,2026-09-30,Billing,Email,Customer-097,agent-08,12.8,4
+T-101067,2026-09-30,Billing,Email,Customer-066,agent-04,21.2,
+T-101086,2026-09-30,Login,Phone,Customer-138,agent-08,2.6,
+T-101087,2026-09-30,Bug report,Phone,Customer-093,agent-03,12.8,
+T-101118,2026-09-30,Billing,Chat,Customer-120,agent-06,26.2,
+T-100312,,Login,Email,Customer-062,agent-06,10.8,4
+T-100729,,Billing,Email,Customer-080,agent-01,27.5,4
